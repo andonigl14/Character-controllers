@@ -1,0 +1,2958 @@
+fileFormatVersion: 2
+guid: 9863aa8f56af3bc41844f6c088ae3aa3
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Ancla_1
+    100002: Ancla_2
+    100004: Anclas
+    100006: Aro_1
+    100008: Aro_2
+    100010: Balconada
+    100012: //RootNode
+    100014: Bodega1
+    100016: Ca__oI_5
+    100018: Ca__oI_6
+    100020: Ca__on
+    100022: Ca__on 1
+    100024: Ca__on 10
+    100026: Ca__on 11
+    100028: Ca__on 12
+    100030: Ca__on 13
+    100032: Ca__on 14
+    100034: Ca__on 15
+    100036: Ca__on 16
+    100038: Ca__on 17
+    100040: Ca__on 18
+    100042: Ca__on 19
+    100044: Ca__on 2
+    100046: Ca__on 20
+    100048: Ca__on 21
+    100050: Ca__on 22
+    100052: Ca__on 23
+    100054: Ca__on 24
+    100056: Ca__on 25
+    100058: Ca__on 26
+    100060: Ca__on 27
+    100062: Ca__on 3
+    100064: Ca__on 4
+    100066: Ca__on 5
+    100068: Ca__on 6
+    100070: Ca__on 7
+    100072: Ca__on 8
+    100074: Ca__on 9
+    100076: Ca__on_1
+    100078: Ca__on_1 1
+    100080: Ca__on_1 2
+    100082: Ca__on_1 3
+    100084: Ca__on_10
+    100086: Ca__on_10 1
+    100088: Ca__on_11
+    100090: Ca__on_11 1
+    100092: Ca__on_12
+    100094: Ca__on_12 1
+    100096: Ca__on_13
+    100098: Ca__on_13 1
+    100100: Ca__on_14
+    100102: Ca__on_14 1
+    100104: Ca__on_2
+    100106: Ca__on_2 1
+    100108: Ca__on_2 2
+    100110: Ca__on_2 3
+    100112: Ca__on_3
+    100114: Ca__on_3 1
+    100116: Ca__on_3 2
+    100118: Ca__on_3 3
+    100120: Ca__on_4
+    100122: Ca__on_4 1
+    100124: Ca__on_4 2
+    100126: Ca__on_4 3
+    100128: Ca__on_5
+    100130: Ca__on_5 1
+    100132: Ca__on_5 2
+    100134: Ca__on_6
+    100136: Ca__on_6 1
+    100138: Ca__on_6 2
+    100140: Ca__on_7
+    100142: Ca__on_7 1
+    100144: Ca__on_8
+    100146: Ca__on_8 1
+    100148: Ca__on_9
+    100150: Ca__on_9 1
+    100152: Ca__ones
+    100154: Ca__ones_Bodega_Derecha
+    100156: Ca__ones_Bodega_Izquierda
+    100158: Ca__ones_Cubierta_Derecha
+    100160: Ca__ones_Cubierta_Izquierda
+    100162: Cable_1
+    100164: Cable_10
+    100166: Cable_11
+    100168: Cable_2
+    100170: Cable_3
+    100172: Cable_4
+    100174: Cable_5
+    100176: Cable_6
+    100178: Cable_7
+    100180: Cable_8
+    100182: Cable_9
+    100184: Cables
+    100186: Casco
+    100188: Cuerda_1
+    100190: Cuerda_1 1
+    100192: Cuerda_1 2
+    100194: Cuerda_1 3
+    100196: Cuerda_2
+    100198: Cuerda_2 1
+    100200: Cuerda_2 2
+    100202: Cuerda_2 3
+    100204: Cuerda_3
+    100206: Cuerda_3 1
+    100208: Cuerda_3 2
+    100210: Cuerda_4
+    100212: Cuerda_4 1
+    100214: Cuerda_4 2
+    100216: Cuerdas
+    100218: Cuerdas 1
+    100220: Cuerdas 2
+    100222: Cuerdas 3
+    100224: Descanso_1
+    100226: Descanso_1 1
+    100228: Descanso_1 2
+    100230: Descanso_1 3
+    100232: Descanso_2
+    100234: Descanso_2 1
+    100236: Descanso_2 2
+    100238: Eje
+    100240: Escala_1
+    100242: Escala_1 1
+    100244: Escala_1 2
+    100246: Escala_1 3
+    100248: Escala_2
+    100250: Escala_2 1
+    100252: Escala_2 2
+    100254: Escala_2 3
+    100256: Escala_3
+    100258: Escala_3 1
+    100260: Escala_3 2
+    100262: Escala_4
+    100264: Escala_4 1
+    100266: Escala_4 2
+    100268: Escalas
+    100270: Escalas 1
+    100272: Escalas 2
+    100274: Escalas 3
+    100276: Horizontal_1
+    100278: Horizontal_1 1
+    100280: Horizontal_1 10
+    100282: Horizontal_1 11
+    100284: Horizontal_1 12
+    100286: Horizontal_1 13
+    100288: Horizontal_1 2
+    100290: Horizontal_1 3
+    100292: Horizontal_1 4
+    100294: Horizontal_1 5
+    100296: Horizontal_1 6
+    100298: Horizontal_1 7
+    100300: Horizontal_1 8
+    100302: Horizontal_1 9
+    100304: Horizontal_10
+    100306: Horizontal_10 1
+    100308: Horizontal_10 10
+    100310: Horizontal_10 11
+    100312: Horizontal_10 12
+    100314: Horizontal_10 13
+    100316: Horizontal_10 2
+    100318: Horizontal_10 3
+    100320: Horizontal_10 4
+    100322: Horizontal_10 5
+    100324: Horizontal_10 6
+    100326: Horizontal_10 7
+    100328: Horizontal_10 8
+    100330: Horizontal_10 9
+    100332: Horizontal_11
+    100334: Horizontal_11 1
+    100336: Horizontal_11 10
+    100338: Horizontal_11 11
+    100340: Horizontal_11 12
+    100342: Horizontal_11 13
+    100344: Horizontal_11 2
+    100346: Horizontal_11 3
+    100348: Horizontal_11 4
+    100350: Horizontal_11 5
+    100352: Horizontal_11 6
+    100354: Horizontal_11 7
+    100356: Horizontal_11 8
+    100358: Horizontal_11 9
+    100360: Horizontal_12
+    100362: Horizontal_12 1
+    100364: Horizontal_12 10
+    100366: Horizontal_12 11
+    100368: Horizontal_12 12
+    100370: Horizontal_12 13
+    100372: Horizontal_12 2
+    100374: Horizontal_12 3
+    100376: Horizontal_12 4
+    100378: Horizontal_12 5
+    100380: Horizontal_12 6
+    100382: Horizontal_12 7
+    100384: Horizontal_12 8
+    100386: Horizontal_12 9
+    100388: Horizontal_13
+    100390: Horizontal_13 1
+    100392: Horizontal_13 10
+    100394: Horizontal_13 11
+    100396: Horizontal_13 12
+    100398: Horizontal_13 13
+    100400: Horizontal_13 2
+    100402: Horizontal_13 3
+    100404: Horizontal_13 4
+    100406: Horizontal_13 5
+    100408: Horizontal_13 6
+    100410: Horizontal_13 7
+    100412: Horizontal_13 8
+    100414: Horizontal_13 9
+    100416: Horizontal_2
+    100418: Horizontal_2 1
+    100420: Horizontal_2 10
+    100422: Horizontal_2 11
+    100424: Horizontal_2 12
+    100426: Horizontal_2 13
+    100428: Horizontal_2 2
+    100430: Horizontal_2 3
+    100432: Horizontal_2 4
+    100434: Horizontal_2 5
+    100436: Horizontal_2 6
+    100438: Horizontal_2 7
+    100440: Horizontal_2 8
+    100442: Horizontal_2 9
+    100444: Horizontal_3
+    100446: Horizontal_3 1
+    100448: Horizontal_3 10
+    100450: Horizontal_3 11
+    100452: Horizontal_3 12
+    100454: Horizontal_3 13
+    100456: Horizontal_3 2
+    100458: Horizontal_3 3
+    100460: Horizontal_3 4
+    100462: Horizontal_3 5
+    100464: Horizontal_3 6
+    100466: Horizontal_3 7
+    100468: Horizontal_3 8
+    100470: Horizontal_3 9
+    100472: Horizontal_4
+    100474: Horizontal_4 1
+    100476: Horizontal_4 10
+    100478: Horizontal_4 11
+    100480: Horizontal_4 12
+    100482: Horizontal_4 13
+    100484: Horizontal_4 2
+    100486: Horizontal_4 3
+    100488: Horizontal_4 4
+    100490: Horizontal_4 5
+    100492: Horizontal_4 6
+    100494: Horizontal_4 7
+    100496: Horizontal_4 8
+    100498: Horizontal_4 9
+    100500: Horizontal_5
+    100502: Horizontal_5 1
+    100504: Horizontal_5 10
+    100506: Horizontal_5 11
+    100508: Horizontal_5 12
+    100510: Horizontal_5 13
+    100512: Horizontal_5 2
+    100514: Horizontal_5 3
+    100516: Horizontal_5 4
+    100518: Horizontal_5 5
+    100520: Horizontal_5 6
+    100522: Horizontal_5 7
+    100524: Horizontal_5 8
+    100526: Horizontal_5 9
+    100528: Horizontal_6
+    100530: Horizontal_6 1
+    100532: Horizontal_6 10
+    100534: Horizontal_6 11
+    100536: Horizontal_6 12
+    100538: Horizontal_6 13
+    100540: Horizontal_6 2
+    100542: Horizontal_6 3
+    100544: Horizontal_6 4
+    100546: Horizontal_6 5
+    100548: Horizontal_6 6
+    100550: Horizontal_6 7
+    100552: Horizontal_6 8
+    100554: Horizontal_6 9
+    100556: Horizontal_7
+    100558: Horizontal_7 1
+    100560: Horizontal_7 10
+    100562: Horizontal_7 11
+    100564: Horizontal_7 12
+    100566: Horizontal_7 13
+    100568: Horizontal_7 2
+    100570: Horizontal_7 3
+    100572: Horizontal_7 4
+    100574: Horizontal_7 5
+    100576: Horizontal_7 6
+    100578: Horizontal_7 7
+    100580: Horizontal_7 8
+    100582: Horizontal_7 9
+    100584: Horizontal_8
+    100586: Horizontal_8 1
+    100588: Horizontal_8 10
+    100590: Horizontal_8 11
+    100592: Horizontal_8 12
+    100594: Horizontal_8 13
+    100596: Horizontal_8 2
+    100598: Horizontal_8 3
+    100600: Horizontal_8 4
+    100602: Horizontal_8 5
+    100604: Horizontal_8 6
+    100606: Horizontal_8 7
+    100608: Horizontal_8 8
+    100610: Horizontal_8 9
+    100612: Horizontal_9
+    100614: Horizontal_9 1
+    100616: Horizontal_9 10
+    100618: Horizontal_9 11
+    100620: Horizontal_9 12
+    100622: Horizontal_9 13
+    100624: Horizontal_9 2
+    100626: Horizontal_9 3
+    100628: Horizontal_9 4
+    100630: Horizontal_9 5
+    100632: Horizontal_9 6
+    100634: Horizontal_9 7
+    100636: Horizontal_9 8
+    100638: Horizontal_9 9
+    100640: Hueco
+    100642: Hueco 1
+    100644: Hueco 10
+    100646: Hueco 11
+    100648: Hueco 12
+    100650: Hueco 13
+    100652: Hueco 14
+    100654: Hueco 15
+    100656: Hueco 16
+    100658: Hueco 17
+    100660: Hueco 18
+    100662: Hueco 19
+    100664: Hueco 2
+    100666: Hueco 20
+    100668: Hueco 21
+    100670: Hueco 22
+    100672: Hueco 23
+    100674: Hueco 24
+    100676: Hueco 25
+    100678: Hueco 26
+    100680: Hueco 27
+    100682: Hueco 3
+    100684: Hueco 4
+    100686: Hueco 5
+    100688: Hueco 6
+    100690: Hueco 7
+    100692: Hueco 8
+    100694: Hueco 9
+    100696: Mastil
+    100698: Mastil 1
+    100700: Mastil 2
+    100702: Mastil 3
+    100704: Mastil_1
+    100706: Mastil_2
+    100708: Mastil_3
+    100710: Mastil_4
+    100712: Mastil_Delantero
+    100714: Mastiles
+    100716: Palo_1
+    100718: Palo_1 1
+    100720: Palo_1 2
+    100722: Palo_2
+    100724: Palo_2 1
+    100726: Palo_2 2
+    100728: Palo_2 3
+    100730: Radio_1
+    100732: Radio_2
+    100734: Radio_3
+    100736: Radio_4
+    100738: Tapa
+    100740: Tapa 1
+    100742: Tapa 10
+    100744: Tapa 11
+    100746: Tapa 12
+    100748: Tapa 13
+    100750: Tapa 14
+    100752: Tapa 15
+    100754: Tapa 16
+    100756: Tapa 17
+    100758: Tapa 18
+    100760: Tapa 19
+    100762: Tapa 2
+    100764: Tapa 20
+    100766: Tapa 21
+    100768: Tapa 22
+    100770: Tapa 23
+    100772: Tapa 24
+    100774: Tapa 25
+    100776: Tapa 26
+    100778: Tapa 27
+    100780: Tapa 3
+    100782: Tapa 4
+    100784: Tapa 5
+    100786: Tapa 6
+    100788: Tapa 7
+    100790: Tapa 8
+    100792: Tapa 9
+    100794: Timon_Casco
+    100796: Timon_Cubierta
+    100798: Vela_1
+    100800: Vela_1 1
+    100802: Vela_1 2
+    100804: Vela_2
+    100806: Vela_2 1
+    100808: Vela_2 2
+    100810: Vela_Delantera
+    100812: Vela_Posterior
+    100814: Velas
+    100816: Velas 1
+    100818: Velas 2
+    100820: Velas 3
+    100822: Ventana_Izquierda_1
+    100824: Ventana_Izquierda_1 1
+    100826: Ventana_Izquierda_2
+    100828: Ventana_Izquierda_2 1
+    100830: Ventana_Izquierda_3
+    100832: Ventana_Izquierda_3 1
+    100834: Ventana_Izquierda_4
+    100836: Ventana_Izquierda_4 1
+    100838: Ventanal_Derecho
+    100840: Ventanal_Izquierdo
+    100842: Vertical_1
+    100844: Vertical_1 1
+    100846: Vertical_1 10
+    100848: Vertical_1 11
+    100850: Vertical_1 12
+    100852: Vertical_1 13
+    100854: Vertical_1 2
+    100856: Vertical_1 3
+    100858: Vertical_1 4
+    100860: Vertical_1 5
+    100862: Vertical_1 6
+    100864: Vertical_1 7
+    100866: Vertical_1 8
+    100868: Vertical_1 9
+    100870: Vertical_2
+    100872: Vertical_2 1
+    100874: Vertical_2 10
+    100876: Vertical_2 11
+    100878: Vertical_2 12
+    100880: Vertical_2 13
+    100882: Vertical_2 2
+    100884: Vertical_2 3
+    100886: Vertical_2 4
+    100888: Vertical_2 5
+    100890: Vertical_2 6
+    100892: Vertical_2 7
+    100894: Vertical_2 8
+    100896: Vertical_2 9
+    100898: Vertical_3
+    100900: Vertical_3 1
+    100902: Vertical_3 10
+    100904: Vertical_3 11
+    100906: Vertical_3 12
+    100908: Vertical_3 13
+    100910: Vertical_3 2
+    100912: Vertical_3 3
+    100914: Vertical_3 4
+    100916: Vertical_3 5
+    100918: Vertical_3 6
+    100920: Vertical_3 7
+    100922: Vertical_3 8
+    100924: Vertical_3 9
+    100926: Vertical_4
+    100928: Vertical_4 1
+    100930: Vertical_4 10
+    100932: Vertical_4 11
+    100934: Vertical_4 12
+    100936: Vertical_4 13
+    100938: Vertical_4 2
+    100940: Vertical_4 3
+    100942: Vertical_4 4
+    100944: Vertical_4 5
+    100946: Vertical_4 6
+    100948: Vertical_4 7
+    100950: Vertical_4 8
+    100952: Vertical_4 9
+    100954: Vela_Delantera1
+    100956: Vela_3
+    100958: Vela_4
+    100960: Vela_5
+    100962: Vela_6
+    100964: Vela_7
+    100966: Vela_8
+    100968: Vela_Posterior1
+    100970: "Ca\xF1oI_5"
+    100972: "Ca\xF1oI_6"
+    100974: "Ca\xF1on"
+    100976: "Ca\xF1on 1"
+    100978: "Ca\xF1on 10"
+    100980: "Ca\xF1on 11"
+    100982: "Ca\xF1on 12"
+    100984: "Ca\xF1on 13"
+    100986: "Ca\xF1on 14"
+    100988: "Ca\xF1on 15"
+    100990: "Ca\xF1on 16"
+    100992: "Ca\xF1on 17"
+    100994: "Ca\xF1on 18"
+    100996: "Ca\xF1on 19"
+    100998: "Ca\xF1on 2"
+    101000: "Ca\xF1on 20"
+    101002: "Ca\xF1on 21"
+    101004: "Ca\xF1on 22"
+    101006: "Ca\xF1on 23"
+    101008: "Ca\xF1on 24"
+    101010: "Ca\xF1on 25"
+    101012: "Ca\xF1on 26"
+    101014: "Ca\xF1on 27"
+    101016: "Ca\xF1on 3"
+    101018: "Ca\xF1on 4"
+    101020: "Ca\xF1on 5"
+    101022: "Ca\xF1on 6"
+    101024: "Ca\xF1on 7"
+    101026: "Ca\xF1on 8"
+    101028: "Ca\xF1on 9"
+    101030: "Ca\xF1on_1"
+    101032: "Ca\xF1on_1 1"
+    101034: "Ca\xF1on_1 2"
+    101036: "Ca\xF1on_1 3"
+    101038: "Ca\xF1on_10"
+    101040: "Ca\xF1on_10 1"
+    101042: "Ca\xF1on_11"
+    101044: "Ca\xF1on_11 1"
+    101046: "Ca\xF1on_12"
+    101048: "Ca\xF1on_12 1"
+    101050: "Ca\xF1on_13"
+    101052: "Ca\xF1on_13 1"
+    101054: "Ca\xF1on_14"
+    101056: "Ca\xF1on_14 1"
+    101058: "Ca\xF1on_2"
+    101060: "Ca\xF1on_2 1"
+    101062: "Ca\xF1on_2 2"
+    101064: "Ca\xF1on_2 3"
+    101066: "Ca\xF1on_3"
+    101068: "Ca\xF1on_3 1"
+    101070: "Ca\xF1on_3 2"
+    101072: "Ca\xF1on_3 3"
+    101074: "Ca\xF1on_4"
+    101076: "Ca\xF1on_4 1"
+    101078: "Ca\xF1on_4 2"
+    101080: "Ca\xF1on_4 3"
+    101082: "Ca\xF1on_5"
+    101084: "Ca\xF1on_5 1"
+    101086: "Ca\xF1on_5 2"
+    101088: "Ca\xF1on_6"
+    101090: "Ca\xF1on_6 1"
+    101092: "Ca\xF1on_6 2"
+    101094: "Ca\xF1on_7"
+    101096: "Ca\xF1on_7 1"
+    101098: "Ca\xF1on_8"
+    101100: "Ca\xF1on_8 1"
+    101102: "Ca\xF1on_9"
+    101104: "Ca\xF1on_9 1"
+    101106: "Ca\xF1ones"
+    101108: "Ca\xF1ones_Bodega_Derecha"
+    101110: "Ca\xF1ones_Bodega_Izquierda"
+    101112: "Ca\xF1ones_Cubierta_Derecha"
+    101114: "Ca\xF1ones_Cubierta_Izquierda"
+    400000: Ancla_1
+    400002: Ancla_2
+    400004: Anclas
+    400006: Aro_1
+    400008: Aro_2
+    400010: Balconada
+    400012: //RootNode
+    400014: Bodega1
+    400016: Ca__oI_5
+    400018: Ca__oI_6
+    400020: Ca__on
+    400022: Ca__on 1
+    400024: Ca__on 10
+    400026: Ca__on 11
+    400028: Ca__on 12
+    400030: Ca__on 13
+    400032: Ca__on 14
+    400034: Ca__on 15
+    400036: Ca__on 16
+    400038: Ca__on 17
+    400040: Ca__on 18
+    400042: Ca__on 19
+    400044: Ca__on 2
+    400046: Ca__on 20
+    400048: Ca__on 21
+    400050: Ca__on 22
+    400052: Ca__on 23
+    400054: Ca__on 24
+    400056: Ca__on 25
+    400058: Ca__on 26
+    400060: Ca__on 27
+    400062: Ca__on 3
+    400064: Ca__on 4
+    400066: Ca__on 5
+    400068: Ca__on 6
+    400070: Ca__on 7
+    400072: Ca__on 8
+    400074: Ca__on 9
+    400076: Ca__on_1
+    400078: Ca__on_1 1
+    400080: Ca__on_1 2
+    400082: Ca__on_1 3
+    400084: Ca__on_10
+    400086: Ca__on_10 1
+    400088: Ca__on_11
+    400090: Ca__on_11 1
+    400092: Ca__on_12
+    400094: Ca__on_12 1
+    400096: Ca__on_13
+    400098: Ca__on_13 1
+    400100: Ca__on_14
+    400102: Ca__on_14 1
+    400104: Ca__on_2
+    400106: Ca__on_2 1
+    400108: Ca__on_2 2
+    400110: Ca__on_2 3
+    400112: Ca__on_3
+    400114: Ca__on_3 1
+    400116: Ca__on_3 2
+    400118: Ca__on_3 3
+    400120: Ca__on_4
+    400122: Ca__on_4 1
+    400124: Ca__on_4 2
+    400126: Ca__on_4 3
+    400128: Ca__on_5
+    400130: Ca__on_5 1
+    400132: Ca__on_5 2
+    400134: Ca__on_6
+    400136: Ca__on_6 1
+    400138: Ca__on_6 2
+    400140: Ca__on_7
+    400142: Ca__on_7 1
+    400144: Ca__on_8
+    400146: Ca__on_8 1
+    400148: Ca__on_9
+    400150: Ca__on_9 1
+    400152: Ca__ones
+    400154: Ca__ones_Bodega_Derecha
+    400156: Ca__ones_Bodega_Izquierda
+    400158: Ca__ones_Cubierta_Derecha
+    400160: Ca__ones_Cubierta_Izquierda
+    400162: Cable_1
+    400164: Cable_10
+    400166: Cable_11
+    400168: Cable_2
+    400170: Cable_3
+    400172: Cable_4
+    400174: Cable_5
+    400176: Cable_6
+    400178: Cable_7
+    400180: Cable_8
+    400182: Cable_9
+    400184: Cables
+    400186: Casco
+    400188: Cuerda_1
+    400190: Cuerda_1 1
+    400192: Cuerda_1 2
+    400194: Cuerda_1 3
+    400196: Cuerda_2
+    400198: Cuerda_2 1
+    400200: Cuerda_2 2
+    400202: Cuerda_2 3
+    400204: Cuerda_3
+    400206: Cuerda_3 1
+    400208: Cuerda_3 2
+    400210: Cuerda_4
+    400212: Cuerda_4 1
+    400214: Cuerda_4 2
+    400216: Cuerdas
+    400218: Cuerdas 1
+    400220: Cuerdas 2
+    400222: Cuerdas 3
+    400224: Descanso_1
+    400226: Descanso_1 1
+    400228: Descanso_1 2
+    400230: Descanso_1 3
+    400232: Descanso_2
+    400234: Descanso_2 1
+    400236: Descanso_2 2
+    400238: Eje
+    400240: Escala_1
+    400242: Escala_1 1
+    400244: Escala_1 2
+    400246: Escala_1 3
+    400248: Escala_2
+    400250: Escala_2 1
+    400252: Escala_2 2
+    400254: Escala_2 3
+    400256: Escala_3
+    400258: Escala_3 1
+    400260: Escala_3 2
+    400262: Escala_4
+    400264: Escala_4 1
+    400266: Escala_4 2
+    400268: Escalas
+    400270: Escalas 1
+    400272: Escalas 2
+    400274: Escalas 3
+    400276: Horizontal_1
+    400278: Horizontal_1 1
+    400280: Horizontal_1 10
+    400282: Horizontal_1 11
+    400284: Horizontal_1 12
+    400286: Horizontal_1 13
+    400288: Horizontal_1 2
+    400290: Horizontal_1 3
+    400292: Horizontal_1 4
+    400294: Horizontal_1 5
+    400296: Horizontal_1 6
+    400298: Horizontal_1 7
+    400300: Horizontal_1 8
+    400302: Horizontal_1 9
+    400304: Horizontal_10
+    400306: Horizontal_10 1
+    400308: Horizontal_10 10
+    400310: Horizontal_10 11
+    400312: Horizontal_10 12
+    400314: Horizontal_10 13
+    400316: Horizontal_10 2
+    400318: Horizontal_10 3
+    400320: Horizontal_10 4
+    400322: Horizontal_10 5
+    400324: Horizontal_10 6
+    400326: Horizontal_10 7
+    400328: Horizontal_10 8
+    400330: Horizontal_10 9
+    400332: Horizontal_11
+    400334: Horizontal_11 1
+    400336: Horizontal_11 10
+    400338: Horizontal_11 11
+    400340: Horizontal_11 12
+    400342: Horizontal_11 13
+    400344: Horizontal_11 2
+    400346: Horizontal_11 3
+    400348: Horizontal_11 4
+    400350: Horizontal_11 5
+    400352: Horizontal_11 6
+    400354: Horizontal_11 7
+    400356: Horizontal_11 8
+    400358: Horizontal_11 9
+    400360: Horizontal_12
+    400362: Horizontal_12 1
+    400364: Horizontal_12 10
+    400366: Horizontal_12 11
+    400368: Horizontal_12 12
+    400370: Horizontal_12 13
+    400372: Horizontal_12 2
+    400374: Horizontal_12 3
+    400376: Horizontal_12 4
+    400378: Horizontal_12 5
+    400380: Horizontal_12 6
+    400382: Horizontal_12 7
+    400384: Horizontal_12 8
+    400386: Horizontal_12 9
+    400388: Horizontal_13
+    400390: Horizontal_13 1
+    400392: Horizontal_13 10
+    400394: Horizontal_13 11
+    400396: Horizontal_13 12
+    400398: Horizontal_13 13
+    400400: Horizontal_13 2
+    400402: Horizontal_13 3
+    400404: Horizontal_13 4
+    400406: Horizontal_13 5
+    400408: Horizontal_13 6
+    400410: Horizontal_13 7
+    400412: Horizontal_13 8
+    400414: Horizontal_13 9
+    400416: Horizontal_2
+    400418: Horizontal_2 1
+    400420: Horizontal_2 10
+    400422: Horizontal_2 11
+    400424: Horizontal_2 12
+    400426: Horizontal_2 13
+    400428: Horizontal_2 2
+    400430: Horizontal_2 3
+    400432: Horizontal_2 4
+    400434: Horizontal_2 5
+    400436: Horizontal_2 6
+    400438: Horizontal_2 7
+    400440: Horizontal_2 8
+    400442: Horizontal_2 9
+    400444: Horizontal_3
+    400446: Horizontal_3 1
+    400448: Horizontal_3 10
+    400450: Horizontal_3 11
+    400452: Horizontal_3 12
+    400454: Horizontal_3 13
+    400456: Horizontal_3 2
+    400458: Horizontal_3 3
+    400460: Horizontal_3 4
+    400462: Horizontal_3 5
+    400464: Horizontal_3 6
+    400466: Horizontal_3 7
+    400468: Horizontal_3 8
+    400470: Horizontal_3 9
+    400472: Horizontal_4
+    400474: Horizontal_4 1
+    400476: Horizontal_4 10
+    400478: Horizontal_4 11
+    400480: Horizontal_4 12
+    400482: Horizontal_4 13
+    400484: Horizontal_4 2
+    400486: Horizontal_4 3
+    400488: Horizontal_4 4
+    400490: Horizontal_4 5
+    400492: Horizontal_4 6
+    400494: Horizontal_4 7
+    400496: Horizontal_4 8
+    400498: Horizontal_4 9
+    400500: Horizontal_5
+    400502: Horizontal_5 1
+    400504: Horizontal_5 10
+    400506: Horizontal_5 11
+    400508: Horizontal_5 12
+    400510: Horizontal_5 13
+    400512: Horizontal_5 2
+    400514: Horizontal_5 3
+    400516: Horizontal_5 4
+    400518: Horizontal_5 5
+    400520: Horizontal_5 6
+    400522: Horizontal_5 7
+    400524: Horizontal_5 8
+    400526: Horizontal_5 9
+    400528: Horizontal_6
+    400530: Horizontal_6 1
+    400532: Horizontal_6 10
+    400534: Horizontal_6 11
+    400536: Horizontal_6 12
+    400538: Horizontal_6 13
+    400540: Horizontal_6 2
+    400542: Horizontal_6 3
+    400544: Horizontal_6 4
+    400546: Horizontal_6 5
+    400548: Horizontal_6 6
+    400550: Horizontal_6 7
+    400552: Horizontal_6 8
+    400554: Horizontal_6 9
+    400556: Horizontal_7
+    400558: Horizontal_7 1
+    400560: Horizontal_7 10
+    400562: Horizontal_7 11
+    400564: Horizontal_7 12
+    400566: Horizontal_7 13
+    400568: Horizontal_7 2
+    400570: Horizontal_7 3
+    400572: Horizontal_7 4
+    400574: Horizontal_7 5
+    400576: Horizontal_7 6
+    400578: Horizontal_7 7
+    400580: Horizontal_7 8
+    400582: Horizontal_7 9
+    400584: Horizontal_8
+    400586: Horizontal_8 1
+    400588: Horizontal_8 10
+    400590: Horizontal_8 11
+    400592: Horizontal_8 12
+    400594: Horizontal_8 13
+    400596: Horizontal_8 2
+    400598: Horizontal_8 3
+    400600: Horizontal_8 4
+    400602: Horizontal_8 5
+    400604: Horizontal_8 6
+    400606: Horizontal_8 7
+    400608: Horizontal_8 8
+    400610: Horizontal_8 9
+    400612: Horizontal_9
+    400614: Horizontal_9 1
+    400616: Horizontal_9 10
+    400618: Horizontal_9 11
+    400620: Horizontal_9 12
+    400622: Horizontal_9 13
+    400624: Horizontal_9 2
+    400626: Horizontal_9 3
+    400628: Horizontal_9 4
+    400630: Horizontal_9 5
+    400632: Horizontal_9 6
+    400634: Horizontal_9 7
+    400636: Horizontal_9 8
+    400638: Horizontal_9 9
+    400640: Hueco
+    400642: Hueco 1
+    400644: Hueco 10
+    400646: Hueco 11
+    400648: Hueco 12
+    400650: Hueco 13
+    400652: Hueco 14
+    400654: Hueco 15
+    400656: Hueco 16
+    400658: Hueco 17
+    400660: Hueco 18
+    400662: Hueco 19
+    400664: Hueco 2
+    400666: Hueco 20
+    400668: Hueco 21
+    400670: Hueco 22
+    400672: Hueco 23
+    400674: Hueco 24
+    400676: Hueco 25
+    400678: Hueco 26
+    400680: Hueco 27
+    400682: Hueco 3
+    400684: Hueco 4
+    400686: Hueco 5
+    400688: Hueco 6
+    400690: Hueco 7
+    400692: Hueco 8
+    400694: Hueco 9
+    400696: Mastil
+    400698: Mastil 1
+    400700: Mastil 2
+    400702: Mastil 3
+    400704: Mastil_1
+    400706: Mastil_2
+    400708: Mastil_3
+    400710: Mastil_4
+    400712: Mastil_Delantero
+    400714: Mastiles
+    400716: Palo_1
+    400718: Palo_1 1
+    400720: Palo_1 2
+    400722: Palo_2
+    400724: Palo_2 1
+    400726: Palo_2 2
+    400728: Palo_2 3
+    400730: Radio_1
+    400732: Radio_2
+    400734: Radio_3
+    400736: Radio_4
+    400738: Tapa
+    400740: Tapa 1
+    400742: Tapa 10
+    400744: Tapa 11
+    400746: Tapa 12
+    400748: Tapa 13
+    400750: Tapa 14
+    400752: Tapa 15
+    400754: Tapa 16
+    400756: Tapa 17
+    400758: Tapa 18
+    400760: Tapa 19
+    400762: Tapa 2
+    400764: Tapa 20
+    400766: Tapa 21
+    400768: Tapa 22
+    400770: Tapa 23
+    400772: Tapa 24
+    400774: Tapa 25
+    400776: Tapa 26
+    400778: Tapa 27
+    400780: Tapa 3
+    400782: Tapa 4
+    400784: Tapa 5
+    400786: Tapa 6
+    400788: Tapa 7
+    400790: Tapa 8
+    400792: Tapa 9
+    400794: Timon_Casco
+    400796: Timon_Cubierta
+    400798: Vela_1
+    400800: Vela_1 1
+    400802: Vela_1 2
+    400804: Vela_2
+    400806: Vela_2 1
+    400808: Vela_2 2
+    400810: Vela_Delantera
+    400812: Vela_Posterior
+    400814: Velas
+    400816: Velas 1
+    400818: Velas 2
+    400820: Velas 3
+    400822: Ventana_Izquierda_1
+    400824: Ventana_Izquierda_1 1
+    400826: Ventana_Izquierda_2
+    400828: Ventana_Izquierda_2 1
+    400830: Ventana_Izquierda_3
+    400832: Ventana_Izquierda_3 1
+    400834: Ventana_Izquierda_4
+    400836: Ventana_Izquierda_4 1
+    400838: Ventanal_Derecho
+    400840: Ventanal_Izquierdo
+    400842: Vertical_1
+    400844: Vertical_1 1
+    400846: Vertical_1 10
+    400848: Vertical_1 11
+    400850: Vertical_1 12
+    400852: Vertical_1 13
+    400854: Vertical_1 2
+    400856: Vertical_1 3
+    400858: Vertical_1 4
+    400860: Vertical_1 5
+    400862: Vertical_1 6
+    400864: Vertical_1 7
+    400866: Vertical_1 8
+    400868: Vertical_1 9
+    400870: Vertical_2
+    400872: Vertical_2 1
+    400874: Vertical_2 10
+    400876: Vertical_2 11
+    400878: Vertical_2 12
+    400880: Vertical_2 13
+    400882: Vertical_2 2
+    400884: Vertical_2 3
+    400886: Vertical_2 4
+    400888: Vertical_2 5
+    400890: Vertical_2 6
+    400892: Vertical_2 7
+    400894: Vertical_2 8
+    400896: Vertical_2 9
+    400898: Vertical_3
+    400900: Vertical_3 1
+    400902: Vertical_3 10
+    400904: Vertical_3 11
+    400906: Vertical_3 12
+    400908: Vertical_3 13
+    400910: Vertical_3 2
+    400912: Vertical_3 3
+    400914: Vertical_3 4
+    400916: Vertical_3 5
+    400918: Vertical_3 6
+    400920: Vertical_3 7
+    400922: Vertical_3 8
+    400924: Vertical_3 9
+    400926: Vertical_4
+    400928: Vertical_4 1
+    400930: Vertical_4 10
+    400932: Vertical_4 11
+    400934: Vertical_4 12
+    400936: Vertical_4 13
+    400938: Vertical_4 2
+    400940: Vertical_4 3
+    400942: Vertical_4 4
+    400944: Vertical_4 5
+    400946: Vertical_4 6
+    400948: Vertical_4 7
+    400950: Vertical_4 8
+    400952: Vertical_4 9
+    400954: Vela_Delantera1
+    400956: Vela_3
+    400958: Vela_4
+    400960: Vela_5
+    400962: Vela_6
+    400964: Vela_7
+    400966: Vela_8
+    400968: Vela_Posterior1
+    400970: "Ca\xF1oI_5"
+    400972: "Ca\xF1oI_6"
+    400974: "Ca\xF1on"
+    400976: "Ca\xF1on 1"
+    400978: "Ca\xF1on 10"
+    400980: "Ca\xF1on 11"
+    400982: "Ca\xF1on 12"
+    400984: "Ca\xF1on 13"
+    400986: "Ca\xF1on 14"
+    400988: "Ca\xF1on 15"
+    400990: "Ca\xF1on 16"
+    400992: "Ca\xF1on 17"
+    400994: "Ca\xF1on 18"
+    400996: "Ca\xF1on 19"
+    400998: "Ca\xF1on 2"
+    401000: "Ca\xF1on 20"
+    401002: "Ca\xF1on 21"
+    401004: "Ca\xF1on 22"
+    401006: "Ca\xF1on 23"
+    401008: "Ca\xF1on 24"
+    401010: "Ca\xF1on 25"
+    401012: "Ca\xF1on 26"
+    401014: "Ca\xF1on 27"
+    401016: "Ca\xF1on 3"
+    401018: "Ca\xF1on 4"
+    401020: "Ca\xF1on 5"
+    401022: "Ca\xF1on 6"
+    401024: "Ca\xF1on 7"
+    401026: "Ca\xF1on 8"
+    401028: "Ca\xF1on 9"
+    401030: "Ca\xF1on_1"
+    401032: "Ca\xF1on_1 1"
+    401034: "Ca\xF1on_1 2"
+    401036: "Ca\xF1on_1 3"
+    401038: "Ca\xF1on_10"
+    401040: "Ca\xF1on_10 1"
+    401042: "Ca\xF1on_11"
+    401044: "Ca\xF1on_11 1"
+    401046: "Ca\xF1on_12"
+    401048: "Ca\xF1on_12 1"
+    401050: "Ca\xF1on_13"
+    401052: "Ca\xF1on_13 1"
+    401054: "Ca\xF1on_14"
+    401056: "Ca\xF1on_14 1"
+    401058: "Ca\xF1on_2"
+    401060: "Ca\xF1on_2 1"
+    401062: "Ca\xF1on_2 2"
+    401064: "Ca\xF1on_2 3"
+    401066: "Ca\xF1on_3"
+    401068: "Ca\xF1on_3 1"
+    401070: "Ca\xF1on_3 2"
+    401072: "Ca\xF1on_3 3"
+    401074: "Ca\xF1on_4"
+    401076: "Ca\xF1on_4 1"
+    401078: "Ca\xF1on_4 2"
+    401080: "Ca\xF1on_4 3"
+    401082: "Ca\xF1on_5"
+    401084: "Ca\xF1on_5 1"
+    401086: "Ca\xF1on_5 2"
+    401088: "Ca\xF1on_6"
+    401090: "Ca\xF1on_6 1"
+    401092: "Ca\xF1on_6 2"
+    401094: "Ca\xF1on_7"
+    401096: "Ca\xF1on_7 1"
+    401098: "Ca\xF1on_8"
+    401100: "Ca\xF1on_8 1"
+    401102: "Ca\xF1on_9"
+    401104: "Ca\xF1on_9 1"
+    401106: "Ca\xF1ones"
+    401108: "Ca\xF1ones_Bodega_Derecha"
+    401110: "Ca\xF1ones_Bodega_Izquierda"
+    401112: "Ca\xF1ones_Cubierta_Derecha"
+    401114: "Ca\xF1ones_Cubierta_Izquierda"
+    2300000: Ancla_1
+    2300002: Ancla_2
+    2300004: Aro_1
+    2300006: Aro_2
+    2300008: Balconada
+    2300010: Bodega1
+    2300012: Ca__on
+    2300014: Ca__on 1
+    2300016: Ca__on 10
+    2300018: Ca__on 11
+    2300020: Ca__on 12
+    2300022: Ca__on 13
+    2300024: Ca__on 14
+    2300026: Ca__on 15
+    2300028: Ca__on 16
+    2300030: Ca__on 17
+    2300032: Ca__on 18
+    2300034: Ca__on 19
+    2300036: Ca__on 2
+    2300038: Ca__on 20
+    2300040: Ca__on 21
+    2300042: Ca__on 22
+    2300044: Ca__on 23
+    2300046: Ca__on 24
+    2300048: Ca__on 25
+    2300050: Ca__on 26
+    2300052: Ca__on 27
+    2300054: Ca__on 3
+    2300056: Ca__on 4
+    2300058: Ca__on 5
+    2300060: Ca__on 6
+    2300062: Ca__on 7
+    2300064: Ca__on 8
+    2300066: Ca__on 9
+    2300068: Ca__on_1 2
+    2300070: Ca__on_1 3
+    2300072: Ca__on_2 2
+    2300074: Ca__on_2 3
+    2300076: Ca__on_3 2
+    2300078: Ca__on_3 3
+    2300080: Ca__on_4 2
+    2300082: Ca__on_4 3
+    2300084: Ca__on_5 1
+    2300086: Ca__on_5 2
+    2300088: Ca__on_6 1
+    2300090: Ca__on_6 2
+    2300092: Cable_1
+    2300094: Cable_10
+    2300096: Cable_11
+    2300098: Cable_2
+    2300100: Cable_3
+    2300102: Cable_4
+    2300104: Cable_5
+    2300106: Cable_6
+    2300108: Cable_7
+    2300110: Cable_8
+    2300112: Cable_9
+    2300114: Casco
+    2300116: Cuerda_1
+    2300118: Cuerda_1 1
+    2300120: Cuerda_1 2
+    2300122: Cuerda_1 3
+    2300124: Cuerda_2
+    2300126: Cuerda_2 1
+    2300128: Cuerda_2 2
+    2300130: Cuerda_2 3
+    2300132: Cuerda_3
+    2300134: Cuerda_3 1
+    2300136: Cuerda_3 2
+    2300138: Cuerda_4
+    2300140: Cuerda_4 1
+    2300142: Cuerda_4 2
+    2300144: Descanso_1
+    2300146: Descanso_1 1
+    2300148: Descanso_1 2
+    2300150: Descanso_1 3
+    2300152: Descanso_2
+    2300154: Descanso_2 1
+    2300156: Descanso_2 2
+    2300158: Eje
+    2300160: Horizontal_1
+    2300162: Horizontal_1 1
+    2300164: Horizontal_1 10
+    2300166: Horizontal_1 11
+    2300168: Horizontal_1 12
+    2300170: Horizontal_1 13
+    2300172: Horizontal_1 2
+    2300174: Horizontal_1 3
+    2300176: Horizontal_1 4
+    2300178: Horizontal_1 5
+    2300180: Horizontal_1 6
+    2300182: Horizontal_1 7
+    2300184: Horizontal_1 8
+    2300186: Horizontal_1 9
+    2300188: Horizontal_10
+    2300190: Horizontal_10 1
+    2300192: Horizontal_10 10
+    2300194: Horizontal_10 11
+    2300196: Horizontal_10 12
+    2300198: Horizontal_10 13
+    2300200: Horizontal_10 2
+    2300202: Horizontal_10 3
+    2300204: Horizontal_10 4
+    2300206: Horizontal_10 5
+    2300208: Horizontal_10 6
+    2300210: Horizontal_10 7
+    2300212: Horizontal_10 8
+    2300214: Horizontal_10 9
+    2300216: Horizontal_11
+    2300218: Horizontal_11 1
+    2300220: Horizontal_11 10
+    2300222: Horizontal_11 11
+    2300224: Horizontal_11 12
+    2300226: Horizontal_11 13
+    2300228: Horizontal_11 2
+    2300230: Horizontal_11 3
+    2300232: Horizontal_11 4
+    2300234: Horizontal_11 5
+    2300236: Horizontal_11 6
+    2300238: Horizontal_11 7
+    2300240: Horizontal_11 8
+    2300242: Horizontal_11 9
+    2300244: Horizontal_12
+    2300246: Horizontal_12 1
+    2300248: Horizontal_12 10
+    2300250: Horizontal_12 11
+    2300252: Horizontal_12 12
+    2300254: Horizontal_12 13
+    2300256: Horizontal_12 2
+    2300258: Horizontal_12 3
+    2300260: Horizontal_12 4
+    2300262: Horizontal_12 5
+    2300264: Horizontal_12 6
+    2300266: Horizontal_12 7
+    2300268: Horizontal_12 8
+    2300270: Horizontal_12 9
+    2300272: Horizontal_13
+    2300274: Horizontal_13 1
+    2300276: Horizontal_13 10
+    2300278: Horizontal_13 11
+    2300280: Horizontal_13 12
+    2300282: Horizontal_13 13
+    2300284: Horizontal_13 2
+    2300286: Horizontal_13 3
+    2300288: Horizontal_13 4
+    2300290: Horizontal_13 5
+    2300292: Horizontal_13 6
+    2300294: Horizontal_13 7
+    2300296: Horizontal_13 8
+    2300298: Horizontal_13 9
+    2300300: Horizontal_2
+    2300302: Horizontal_2 1
+    2300304: Horizontal_2 10
+    2300306: Horizontal_2 11
+    2300308: Horizontal_2 12
+    2300310: Horizontal_2 13
+    2300312: Horizontal_2 2
+    2300314: Horizontal_2 3
+    2300316: Horizontal_2 4
+    2300318: Horizontal_2 5
+    2300320: Horizontal_2 6
+    2300322: Horizontal_2 7
+    2300324: Horizontal_2 8
+    2300326: Horizontal_2 9
+    2300328: Horizontal_3
+    2300330: Horizontal_3 1
+    2300332: Horizontal_3 10
+    2300334: Horizontal_3 11
+    2300336: Horizontal_3 12
+    2300338: Horizontal_3 13
+    2300340: Horizontal_3 2
+    2300342: Horizontal_3 3
+    2300344: Horizontal_3 4
+    2300346: Horizontal_3 5
+    2300348: Horizontal_3 6
+    2300350: Horizontal_3 7
+    2300352: Horizontal_3 8
+    2300354: Horizontal_3 9
+    2300356: Horizontal_4
+    2300358: Horizontal_4 1
+    2300360: Horizontal_4 10
+    2300362: Horizontal_4 11
+    2300364: Horizontal_4 12
+    2300366: Horizontal_4 13
+    2300368: Horizontal_4 2
+    2300370: Horizontal_4 3
+    2300372: Horizontal_4 4
+    2300374: Horizontal_4 5
+    2300376: Horizontal_4 6
+    2300378: Horizontal_4 7
+    2300380: Horizontal_4 8
+    2300382: Horizontal_4 9
+    2300384: Horizontal_5
+    2300386: Horizontal_5 1
+    2300388: Horizontal_5 10
+    2300390: Horizontal_5 11
+    2300392: Horizontal_5 12
+    2300394: Horizontal_5 13
+    2300396: Horizontal_5 2
+    2300398: Horizontal_5 3
+    2300400: Horizontal_5 4
+    2300402: Horizontal_5 5
+    2300404: Horizontal_5 6
+    2300406: Horizontal_5 7
+    2300408: Horizontal_5 8
+    2300410: Horizontal_5 9
+    2300412: Horizontal_6
+    2300414: Horizontal_6 1
+    2300416: Horizontal_6 10
+    2300418: Horizontal_6 11
+    2300420: Horizontal_6 12
+    2300422: Horizontal_6 13
+    2300424: Horizontal_6 2
+    2300426: Horizontal_6 3
+    2300428: Horizontal_6 4
+    2300430: Horizontal_6 5
+    2300432: Horizontal_6 6
+    2300434: Horizontal_6 7
+    2300436: Horizontal_6 8
+    2300438: Horizontal_6 9
+    2300440: Horizontal_7
+    2300442: Horizontal_7 1
+    2300444: Horizontal_7 10
+    2300446: Horizontal_7 11
+    2300448: Horizontal_7 12
+    2300450: Horizontal_7 13
+    2300452: Horizontal_7 2
+    2300454: Horizontal_7 3
+    2300456: Horizontal_7 4
+    2300458: Horizontal_7 5
+    2300460: Horizontal_7 6
+    2300462: Horizontal_7 7
+    2300464: Horizontal_7 8
+    2300466: Horizontal_7 9
+    2300468: Horizontal_8
+    2300470: Horizontal_8 1
+    2300472: Horizontal_8 10
+    2300474: Horizontal_8 11
+    2300476: Horizontal_8 12
+    2300478: Horizontal_8 13
+    2300480: Horizontal_8 2
+    2300482: Horizontal_8 3
+    2300484: Horizontal_8 4
+    2300486: Horizontal_8 5
+    2300488: Horizontal_8 6
+    2300490: Horizontal_8 7
+    2300492: Horizontal_8 8
+    2300494: Horizontal_8 9
+    2300496: Horizontal_9
+    2300498: Horizontal_9 1
+    2300500: Horizontal_9 10
+    2300502: Horizontal_9 11
+    2300504: Horizontal_9 12
+    2300506: Horizontal_9 13
+    2300508: Horizontal_9 2
+    2300510: Horizontal_9 3
+    2300512: Horizontal_9 4
+    2300514: Horizontal_9 5
+    2300516: Horizontal_9 6
+    2300518: Horizontal_9 7
+    2300520: Horizontal_9 8
+    2300522: Horizontal_9 9
+    2300524: Hueco
+    2300526: Hueco 1
+    2300528: Hueco 10
+    2300530: Hueco 11
+    2300532: Hueco 12
+    2300534: Hueco 13
+    2300536: Hueco 14
+    2300538: Hueco 15
+    2300540: Hueco 16
+    2300542: Hueco 17
+    2300544: Hueco 18
+    2300546: Hueco 19
+    2300548: Hueco 2
+    2300550: Hueco 20
+    2300552: Hueco 21
+    2300554: Hueco 22
+    2300556: Hueco 23
+    2300558: Hueco 24
+    2300560: Hueco 25
+    2300562: Hueco 26
+    2300564: Hueco 27
+    2300566: Hueco 3
+    2300568: Hueco 4
+    2300570: Hueco 5
+    2300572: Hueco 6
+    2300574: Hueco 7
+    2300576: Hueco 8
+    2300578: Hueco 9
+    2300580: Mastil
+    2300582: Mastil 1
+    2300584: Mastil 2
+    2300586: Mastil 3
+    2300588: Mastil_Delantero
+    2300590: Palo_1
+    2300592: Palo_1 1
+    2300594: Palo_1 2
+    2300596: Palo_2
+    2300598: Palo_2 1
+    2300600: Palo_2 2
+    2300602: Palo_2 3
+    2300604: Radio_1
+    2300606: Radio_2
+    2300608: Radio_3
+    2300610: Radio_4
+    2300612: Tapa
+    2300614: Tapa 1
+    2300616: Tapa 10
+    2300618: Tapa 11
+    2300620: Tapa 12
+    2300622: Tapa 13
+    2300624: Tapa 14
+    2300626: Tapa 15
+    2300628: Tapa 16
+    2300630: Tapa 17
+    2300632: Tapa 18
+    2300634: Tapa 19
+    2300636: Tapa 2
+    2300638: Tapa 20
+    2300640: Tapa 21
+    2300642: Tapa 22
+    2300644: Tapa 23
+    2300646: Tapa 24
+    2300648: Tapa 25
+    2300650: Tapa 26
+    2300652: Tapa 27
+    2300654: Tapa 3
+    2300656: Tapa 4
+    2300658: Tapa 5
+    2300660: Tapa 6
+    2300662: Tapa 7
+    2300664: Tapa 8
+    2300666: Tapa 9
+    2300668: Timon_Casco
+    2300670: Vela_1
+    2300672: Vela_1 1
+    2300674: Vela_1 2
+    2300676: Vela_2
+    2300678: Vela_2 1
+    2300680: Vela_2 2
+    2300682: Vela_Delantera
+    2300684: Vela_Posterior
+    2300686: Ventana_Izquierda_1
+    2300688: Ventana_Izquierda_1 1
+    2300690: Ventana_Izquierda_2
+    2300692: Ventana_Izquierda_2 1
+    2300694: Ventana_Izquierda_3
+    2300696: Ventana_Izquierda_3 1
+    2300698: Ventana_Izquierda_4
+    2300700: Ventana_Izquierda_4 1
+    2300702: Vertical_1
+    2300704: Vertical_1 1
+    2300706: Vertical_1 10
+    2300708: Vertical_1 11
+    2300710: Vertical_1 12
+    2300712: Vertical_1 13
+    2300714: Vertical_1 2
+    2300716: Vertical_1 3
+    2300718: Vertical_1 4
+    2300720: Vertical_1 5
+    2300722: Vertical_1 6
+    2300724: Vertical_1 7
+    2300726: Vertical_1 8
+    2300728: Vertical_1 9
+    2300730: Vertical_2
+    2300732: Vertical_2 1
+    2300734: Vertical_2 10
+    2300736: Vertical_2 11
+    2300738: Vertical_2 12
+    2300740: Vertical_2 13
+    2300742: Vertical_2 2
+    2300744: Vertical_2 3
+    2300746: Vertical_2 4
+    2300748: Vertical_2 5
+    2300750: Vertical_2 6
+    2300752: Vertical_2 7
+    2300754: Vertical_2 8
+    2300756: Vertical_2 9
+    2300758: Vertical_3
+    2300760: Vertical_3 1
+    2300762: Vertical_3 10
+    2300764: Vertical_3 11
+    2300766: Vertical_3 12
+    2300768: Vertical_3 13
+    2300770: Vertical_3 2
+    2300772: Vertical_3 3
+    2300774: Vertical_3 4
+    2300776: Vertical_3 5
+    2300778: Vertical_3 6
+    2300780: Vertical_3 7
+    2300782: Vertical_3 8
+    2300784: Vertical_3 9
+    2300786: Vertical_4
+    2300788: Vertical_4 1
+    2300790: Vertical_4 10
+    2300792: Vertical_4 11
+    2300794: Vertical_4 12
+    2300796: Vertical_4 13
+    2300798: Vertical_4 2
+    2300800: Vertical_4 3
+    2300802: Vertical_4 4
+    2300804: Vertical_4 5
+    2300806: Vertical_4 6
+    2300808: Vertical_4 7
+    2300810: Vertical_4 8
+    2300812: Vertical_4 9
+    2300814: Vela_Delantera1
+    2300816: Vela_3
+    2300818: Vela_4
+    2300820: Vela_5
+    2300822: Vela_6
+    2300824: Vela_7
+    2300826: Vela_8
+    2300828: Vela_Posterior1
+    2300830: "Ca\xF1on"
+    2300832: "Ca\xF1on 1"
+    2300834: "Ca\xF1on 10"
+    2300836: "Ca\xF1on 11"
+    2300838: "Ca\xF1on 12"
+    2300840: "Ca\xF1on 13"
+    2300842: "Ca\xF1on 14"
+    2300844: "Ca\xF1on 15"
+    2300846: "Ca\xF1on 16"
+    2300848: "Ca\xF1on 17"
+    2300850: "Ca\xF1on 18"
+    2300852: "Ca\xF1on 19"
+    2300854: "Ca\xF1on 2"
+    2300856: "Ca\xF1on 20"
+    2300858: "Ca\xF1on 21"
+    2300860: "Ca\xF1on 22"
+    2300862: "Ca\xF1on 23"
+    2300864: "Ca\xF1on 24"
+    2300866: "Ca\xF1on 25"
+    2300868: "Ca\xF1on 26"
+    2300870: "Ca\xF1on 27"
+    2300872: "Ca\xF1on 3"
+    2300874: "Ca\xF1on 4"
+    2300876: "Ca\xF1on 5"
+    2300878: "Ca\xF1on 6"
+    2300880: "Ca\xF1on 7"
+    2300882: "Ca\xF1on 8"
+    2300884: "Ca\xF1on 9"
+    2300886: "Ca\xF1on_1 2"
+    2300888: "Ca\xF1on_1 3"
+    2300890: "Ca\xF1on_2 2"
+    2300892: "Ca\xF1on_2 3"
+    2300894: "Ca\xF1on_3 2"
+    2300896: "Ca\xF1on_3 3"
+    2300898: "Ca\xF1on_4 2"
+    2300900: "Ca\xF1on_4 3"
+    2300902: "Ca\xF1on_5 1"
+    2300904: "Ca\xF1on_5 2"
+    2300906: "Ca\xF1on_6 1"
+    2300908: "Ca\xF1on_6 2"
+    3300000: Ancla_1
+    3300002: Ancla_2
+    3300004: Aro_1
+    3300006: Aro_2
+    3300008: Balconada
+    3300010: Bodega1
+    3300012: Ca__on
+    3300014: Ca__on 1
+    3300016: Ca__on 10
+    3300018: Ca__on 11
+    3300020: Ca__on 12
+    3300022: Ca__on 13
+    3300024: Ca__on 14
+    3300026: Ca__on 15
+    3300028: Ca__on 16
+    3300030: Ca__on 17
+    3300032: Ca__on 18
+    3300034: Ca__on 19
+    3300036: Ca__on 2
+    3300038: Ca__on 20
+    3300040: Ca__on 21
+    3300042: Ca__on 22
+    3300044: Ca__on 23
+    3300046: Ca__on 24
+    3300048: Ca__on 25
+    3300050: Ca__on 26
+    3300052: Ca__on 27
+    3300054: Ca__on 3
+    3300056: Ca__on 4
+    3300058: Ca__on 5
+    3300060: Ca__on 6
+    3300062: Ca__on 7
+    3300064: Ca__on 8
+    3300066: Ca__on 9
+    3300068: Ca__on_1 2
+    3300070: Ca__on_1 3
+    3300072: Ca__on_2 2
+    3300074: Ca__on_2 3
+    3300076: Ca__on_3 2
+    3300078: Ca__on_3 3
+    3300080: Ca__on_4 2
+    3300082: Ca__on_4 3
+    3300084: Ca__on_5 1
+    3300086: Ca__on_5 2
+    3300088: Ca__on_6 1
+    3300090: Ca__on_6 2
+    3300092: Cable_1
+    3300094: Cable_10
+    3300096: Cable_11
+    3300098: Cable_2
+    3300100: Cable_3
+    3300102: Cable_4
+    3300104: Cable_5
+    3300106: Cable_6
+    3300108: Cable_7
+    3300110: Cable_8
+    3300112: Cable_9
+    3300114: Casco
+    3300116: Cuerda_1
+    3300118: Cuerda_1 1
+    3300120: Cuerda_1 2
+    3300122: Cuerda_1 3
+    3300124: Cuerda_2
+    3300126: Cuerda_2 1
+    3300128: Cuerda_2 2
+    3300130: Cuerda_2 3
+    3300132: Cuerda_3
+    3300134: Cuerda_3 1
+    3300136: Cuerda_3 2
+    3300138: Cuerda_4
+    3300140: Cuerda_4 1
+    3300142: Cuerda_4 2
+    3300144: Descanso_1
+    3300146: Descanso_1 1
+    3300148: Descanso_1 2
+    3300150: Descanso_1 3
+    3300152: Descanso_2
+    3300154: Descanso_2 1
+    3300156: Descanso_2 2
+    3300158: Eje
+    3300160: Horizontal_1
+    3300162: Horizontal_1 1
+    3300164: Horizontal_1 10
+    3300166: Horizontal_1 11
+    3300168: Horizontal_1 12
+    3300170: Horizontal_1 13
+    3300172: Horizontal_1 2
+    3300174: Horizontal_1 3
+    3300176: Horizontal_1 4
+    3300178: Horizontal_1 5
+    3300180: Horizontal_1 6
+    3300182: Horizontal_1 7
+    3300184: Horizontal_1 8
+    3300186: Horizontal_1 9
+    3300188: Horizontal_10
+    3300190: Horizontal_10 1
+    3300192: Horizontal_10 10
+    3300194: Horizontal_10 11
+    3300196: Horizontal_10 12
+    3300198: Horizontal_10 13
+    3300200: Horizontal_10 2
+    3300202: Horizontal_10 3
+    3300204: Horizontal_10 4
+    3300206: Horizontal_10 5
+    3300208: Horizontal_10 6
+    3300210: Horizontal_10 7
+    3300212: Horizontal_10 8
+    3300214: Horizontal_10 9
+    3300216: Horizontal_11
+    3300218: Horizontal_11 1
+    3300220: Horizontal_11 10
+    3300222: Horizontal_11 11
+    3300224: Horizontal_11 12
+    3300226: Horizontal_11 13
+    3300228: Horizontal_11 2
+    3300230: Horizontal_11 3
+    3300232: Horizontal_11 4
+    3300234: Horizontal_11 5
+    3300236: Horizontal_11 6
+    3300238: Horizontal_11 7
+    3300240: Horizontal_11 8
+    3300242: Horizontal_11 9
+    3300244: Horizontal_12
+    3300246: Horizontal_12 1
+    3300248: Horizontal_12 10
+    3300250: Horizontal_12 11
+    3300252: Horizontal_12 12
+    3300254: Horizontal_12 13
+    3300256: Horizontal_12 2
+    3300258: Horizontal_12 3
+    3300260: Horizontal_12 4
+    3300262: Horizontal_12 5
+    3300264: Horizontal_12 6
+    3300266: Horizontal_12 7
+    3300268: Horizontal_12 8
+    3300270: Horizontal_12 9
+    3300272: Horizontal_13
+    3300274: Horizontal_13 1
+    3300276: Horizontal_13 10
+    3300278: Horizontal_13 11
+    3300280: Horizontal_13 12
+    3300282: Horizontal_13 13
+    3300284: Horizontal_13 2
+    3300286: Horizontal_13 3
+    3300288: Horizontal_13 4
+    3300290: Horizontal_13 5
+    3300292: Horizontal_13 6
+    3300294: Horizontal_13 7
+    3300296: Horizontal_13 8
+    3300298: Horizontal_13 9
+    3300300: Horizontal_2
+    3300302: Horizontal_2 1
+    3300304: Horizontal_2 10
+    3300306: Horizontal_2 11
+    3300308: Horizontal_2 12
+    3300310: Horizontal_2 13
+    3300312: Horizontal_2 2
+    3300314: Horizontal_2 3
+    3300316: Horizontal_2 4
+    3300318: Horizontal_2 5
+    3300320: Horizontal_2 6
+    3300322: Horizontal_2 7
+    3300324: Horizontal_2 8
+    3300326: Horizontal_2 9
+    3300328: Horizontal_3
+    3300330: Horizontal_3 1
+    3300332: Horizontal_3 10
+    3300334: Horizontal_3 11
+    3300336: Horizontal_3 12
+    3300338: Horizontal_3 13
+    3300340: Horizontal_3 2
+    3300342: Horizontal_3 3
+    3300344: Horizontal_3 4
+    3300346: Horizontal_3 5
+    3300348: Horizontal_3 6
+    3300350: Horizontal_3 7
+    3300352: Horizontal_3 8
+    3300354: Horizontal_3 9
+    3300356: Horizontal_4
+    3300358: Horizontal_4 1
+    3300360: Horizontal_4 10
+    3300362: Horizontal_4 11
+    3300364: Horizontal_4 12
+    3300366: Horizontal_4 13
+    3300368: Horizontal_4 2
+    3300370: Horizontal_4 3
+    3300372: Horizontal_4 4
+    3300374: Horizontal_4 5
+    3300376: Horizontal_4 6
+    3300378: Horizontal_4 7
+    3300380: Horizontal_4 8
+    3300382: Horizontal_4 9
+    3300384: Horizontal_5
+    3300386: Horizontal_5 1
+    3300388: Horizontal_5 10
+    3300390: Horizontal_5 11
+    3300392: Horizontal_5 12
+    3300394: Horizontal_5 13
+    3300396: Horizontal_5 2
+    3300398: Horizontal_5 3
+    3300400: Horizontal_5 4
+    3300402: Horizontal_5 5
+    3300404: Horizontal_5 6
+    3300406: Horizontal_5 7
+    3300408: Horizontal_5 8
+    3300410: Horizontal_5 9
+    3300412: Horizontal_6
+    3300414: Horizontal_6 1
+    3300416: Horizontal_6 10
+    3300418: Horizontal_6 11
+    3300420: Horizontal_6 12
+    3300422: Horizontal_6 13
+    3300424: Horizontal_6 2
+    3300426: Horizontal_6 3
+    3300428: Horizontal_6 4
+    3300430: Horizontal_6 5
+    3300432: Horizontal_6 6
+    3300434: Horizontal_6 7
+    3300436: Horizontal_6 8
+    3300438: Horizontal_6 9
+    3300440: Horizontal_7
+    3300442: Horizontal_7 1
+    3300444: Horizontal_7 10
+    3300446: Horizontal_7 11
+    3300448: Horizontal_7 12
+    3300450: Horizontal_7 13
+    3300452: Horizontal_7 2
+    3300454: Horizontal_7 3
+    3300456: Horizontal_7 4
+    3300458: Horizontal_7 5
+    3300460: Horizontal_7 6
+    3300462: Horizontal_7 7
+    3300464: Horizontal_7 8
+    3300466: Horizontal_7 9
+    3300468: Horizontal_8
+    3300470: Horizontal_8 1
+    3300472: Horizontal_8 10
+    3300474: Horizontal_8 11
+    3300476: Horizontal_8 12
+    3300478: Horizontal_8 13
+    3300480: Horizontal_8 2
+    3300482: Horizontal_8 3
+    3300484: Horizontal_8 4
+    3300486: Horizontal_8 5
+    3300488: Horizontal_8 6
+    3300490: Horizontal_8 7
+    3300492: Horizontal_8 8
+    3300494: Horizontal_8 9
+    3300496: Horizontal_9
+    3300498: Horizontal_9 1
+    3300500: Horizontal_9 10
+    3300502: Horizontal_9 11
+    3300504: Horizontal_9 12
+    3300506: Horizontal_9 13
+    3300508: Horizontal_9 2
+    3300510: Horizontal_9 3
+    3300512: Horizontal_9 4
+    3300514: Horizontal_9 5
+    3300516: Horizontal_9 6
+    3300518: Horizontal_9 7
+    3300520: Horizontal_9 8
+    3300522: Horizontal_9 9
+    3300524: Hueco
+    3300526: Hueco 1
+    3300528: Hueco 10
+    3300530: Hueco 11
+    3300532: Hueco 12
+    3300534: Hueco 13
+    3300536: Hueco 14
+    3300538: Hueco 15
+    3300540: Hueco 16
+    3300542: Hueco 17
+    3300544: Hueco 18
+    3300546: Hueco 19
+    3300548: Hueco 2
+    3300550: Hueco 20
+    3300552: Hueco 21
+    3300554: Hueco 22
+    3300556: Hueco 23
+    3300558: Hueco 24
+    3300560: Hueco 25
+    3300562: Hueco 26
+    3300564: Hueco 27
+    3300566: Hueco 3
+    3300568: Hueco 4
+    3300570: Hueco 5
+    3300572: Hueco 6
+    3300574: Hueco 7
+    3300576: Hueco 8
+    3300578: Hueco 9
+    3300580: Mastil
+    3300582: Mastil 1
+    3300584: Mastil 2
+    3300586: Mastil 3
+    3300588: Mastil_Delantero
+    3300590: Palo_1
+    3300592: Palo_1 1
+    3300594: Palo_1 2
+    3300596: Palo_2
+    3300598: Palo_2 1
+    3300600: Palo_2 2
+    3300602: Palo_2 3
+    3300604: Radio_1
+    3300606: Radio_2
+    3300608: Radio_3
+    3300610: Radio_4
+    3300612: Tapa
+    3300614: Tapa 1
+    3300616: Tapa 10
+    3300618: Tapa 11
+    3300620: Tapa 12
+    3300622: Tapa 13
+    3300624: Tapa 14
+    3300626: Tapa 15
+    3300628: Tapa 16
+    3300630: Tapa 17
+    3300632: Tapa 18
+    3300634: Tapa 19
+    3300636: Tapa 2
+    3300638: Tapa 20
+    3300640: Tapa 21
+    3300642: Tapa 22
+    3300644: Tapa 23
+    3300646: Tapa 24
+    3300648: Tapa 25
+    3300650: Tapa 26
+    3300652: Tapa 27
+    3300654: Tapa 3
+    3300656: Tapa 4
+    3300658: Tapa 5
+    3300660: Tapa 6
+    3300662: Tapa 7
+    3300664: Tapa 8
+    3300666: Tapa 9
+    3300668: Timon_Casco
+    3300670: Vela_1
+    3300672: Vela_1 1
+    3300674: Vela_1 2
+    3300676: Vela_2
+    3300678: Vela_2 1
+    3300680: Vela_2 2
+    3300682: Vela_Delantera
+    3300684: Vela_Posterior
+    3300686: Ventana_Izquierda_1
+    3300688: Ventana_Izquierda_1 1
+    3300690: Ventana_Izquierda_2
+    3300692: Ventana_Izquierda_2 1
+    3300694: Ventana_Izquierda_3
+    3300696: Ventana_Izquierda_3 1
+    3300698: Ventana_Izquierda_4
+    3300700: Ventana_Izquierda_4 1
+    3300702: Vertical_1
+    3300704: Vertical_1 1
+    3300706: Vertical_1 10
+    3300708: Vertical_1 11
+    3300710: Vertical_1 12
+    3300712: Vertical_1 13
+    3300714: Vertical_1 2
+    3300716: Vertical_1 3
+    3300718: Vertical_1 4
+    3300720: Vertical_1 5
+    3300722: Vertical_1 6
+    3300724: Vertical_1 7
+    3300726: Vertical_1 8
+    3300728: Vertical_1 9
+    3300730: Vertical_2
+    3300732: Vertical_2 1
+    3300734: Vertical_2 10
+    3300736: Vertical_2 11
+    3300738: Vertical_2 12
+    3300740: Vertical_2 13
+    3300742: Vertical_2 2
+    3300744: Vertical_2 3
+    3300746: Vertical_2 4
+    3300748: Vertical_2 5
+    3300750: Vertical_2 6
+    3300752: Vertical_2 7
+    3300754: Vertical_2 8
+    3300756: Vertical_2 9
+    3300758: Vertical_3
+    3300760: Vertical_3 1
+    3300762: Vertical_3 10
+    3300764: Vertical_3 11
+    3300766: Vertical_3 12
+    3300768: Vertical_3 13
+    3300770: Vertical_3 2
+    3300772: Vertical_3 3
+    3300774: Vertical_3 4
+    3300776: Vertical_3 5
+    3300778: Vertical_3 6
+    3300780: Vertical_3 7
+    3300782: Vertical_3 8
+    3300784: Vertical_3 9
+    3300786: Vertical_4
+    3300788: Vertical_4 1
+    3300790: Vertical_4 10
+    3300792: Vertical_4 11
+    3300794: Vertical_4 12
+    3300796: Vertical_4 13
+    3300798: Vertical_4 2
+    3300800: Vertical_4 3
+    3300802: Vertical_4 4
+    3300804: Vertical_4 5
+    3300806: Vertical_4 6
+    3300808: Vertical_4 7
+    3300810: Vertical_4 8
+    3300812: Vertical_4 9
+    3300814: Vela_Delantera1
+    3300816: Vela_3
+    3300818: Vela_4
+    3300820: Vela_5
+    3300822: Vela_6
+    3300824: Vela_7
+    3300826: Vela_8
+    3300828: Vela_Posterior1
+    3300830: "Ca\xF1on"
+    3300832: "Ca\xF1on 1"
+    3300834: "Ca\xF1on 10"
+    3300836: "Ca\xF1on 11"
+    3300838: "Ca\xF1on 12"
+    3300840: "Ca\xF1on 13"
+    3300842: "Ca\xF1on 14"
+    3300844: "Ca\xF1on 15"
+    3300846: "Ca\xF1on 16"
+    3300848: "Ca\xF1on 17"
+    3300850: "Ca\xF1on 18"
+    3300852: "Ca\xF1on 19"
+    3300854: "Ca\xF1on 2"
+    3300856: "Ca\xF1on 20"
+    3300858: "Ca\xF1on 21"
+    3300860: "Ca\xF1on 22"
+    3300862: "Ca\xF1on 23"
+    3300864: "Ca\xF1on 24"
+    3300866: "Ca\xF1on 25"
+    3300868: "Ca\xF1on 26"
+    3300870: "Ca\xF1on 27"
+    3300872: "Ca\xF1on 3"
+    3300874: "Ca\xF1on 4"
+    3300876: "Ca\xF1on 5"
+    3300878: "Ca\xF1on 6"
+    3300880: "Ca\xF1on 7"
+    3300882: "Ca\xF1on 8"
+    3300884: "Ca\xF1on 9"
+    3300886: "Ca\xF1on_1 2"
+    3300888: "Ca\xF1on_1 3"
+    3300890: "Ca\xF1on_2 2"
+    3300892: "Ca\xF1on_2 3"
+    3300894: "Ca\xF1on_3 2"
+    3300896: "Ca\xF1on_3 3"
+    3300898: "Ca\xF1on_4 2"
+    3300900: "Ca\xF1on_4 3"
+    3300902: "Ca\xF1on_5 1"
+    3300904: "Ca\xF1on_5 2"
+    3300906: "Ca\xF1on_6 1"
+    3300908: "Ca\xF1on_6 2"
+    4300000: Casco
+    4300002: Balconada
+    4300004: Timon_Casco
+    4300006: Ventana_Izquierda_1
+    4300008: Ventana_Izquierda_2
+    4300010: Ventana_Izquierda_3
+    4300012: Ventana_Izquierda_4
+    4300014: Ventana_Izquierda_1
+    4300016: Ventana_Izquierda_2
+    4300018: Ventana_Izquierda_3
+    4300020: Ventana_Izquierda_4
+    4300022: Vela_Posterior
+    4300024: Vela_Delantera
+    4300026: Cable_1
+    4300028: Cable_2
+    4300030: Cable_3
+    4300032: Cable_4
+    4300034: Cable_5
+    4300036: Cable_6
+    4300038: Cable_7
+    4300040: Cable_8
+    4300042: Cable_9
+    4300044: Cable_10
+    4300046: Cable_11
+    4300048: Ancla_1
+    4300050: Ancla_2
+    4300052: Ca__on
+    4300054: Hueco
+    4300056: Tapa
+    4300058: Ca__on
+    4300060: Hueco
+    4300062: Tapa
+    4300064: Ca__on
+    4300066: Hueco
+    4300068: Tapa
+    4300070: Ca__on
+    4300072: Hueco
+    4300074: Tapa
+    4300076: Ca__on
+    4300078: Hueco
+    4300080: Tapa
+    4300082: Ca__on
+    4300084: Hueco
+    4300086: Tapa
+    4300088: Ca__on
+    4300090: Hueco
+    4300092: Tapa
+    4300094: Ca__on
+    4300096: Hueco
+    4300098: Tapa
+    4300100: Ca__on
+    4300102: Hueco
+    4300104: Tapa
+    4300106: Ca__on
+    4300108: Hueco
+    4300110: Tapa
+    4300112: Ca__on
+    4300114: Hueco
+    4300116: Tapa
+    4300118: Ca__on
+    4300120: Hueco
+    4300122: Tapa
+    4300124: Ca__on
+    4300126: Hueco
+    4300128: Tapa
+    4300130: Ca__on
+    4300132: Hueco
+    4300134: Tapa
+    4300136: Ca__on
+    4300138: Hueco
+    4300140: Tapa
+    4300142: Ca__on
+    4300144: Hueco
+    4300146: Tapa
+    4300148: Ca__on
+    4300150: Hueco
+    4300152: Tapa
+    4300154: Ca__on
+    4300156: Hueco
+    4300158: Tapa
+    4300160: Ca__on
+    4300162: Hueco
+    4300164: Tapa
+    4300166: Ca__on
+    4300168: Hueco
+    4300170: Tapa
+    4300172: Ca__on
+    4300174: Hueco
+    4300176: Tapa
+    4300178: Ca__on
+    4300180: Hueco
+    4300182: Tapa
+    4300184: Ca__on
+    4300186: Hueco
+    4300188: Tapa
+    4300190: Ca__on
+    4300192: Hueco
+    4300194: Tapa
+    4300196: Ca__on
+    4300198: Hueco
+    4300200: Tapa
+    4300202: Ca__on
+    4300204: Hueco
+    4300206: Tapa
+    4300208: Ca__on
+    4300210: Hueco
+    4300212: Tapa
+    4300214: Ca__on
+    4300216: Hueco
+    4300218: Tapa
+    4300220: Ca__on_1
+    4300222: Ca__on_2
+    4300224: Ca__on_3
+    4300226: Ca__on_4
+    4300228: Ca__on_5
+    4300230: Ca__on_6
+    4300232: Ca__on_1
+    4300234: Ca__on_2
+    4300236: Ca__on_3
+    4300238: Ca__on_4
+    4300240: Ca__on_5
+    4300242: Ca__on_6
+    4300244: Vela_2
+    4300246: Vela_1
+    4300248: Horizontal_13
+    4300250: Horizontal_12
+    4300252: Horizontal_11
+    4300254: Horizontal_10
+    4300256: Horizontal_9
+    4300258: Horizontal_8
+    4300260: Horizontal_7
+    4300262: Horizontal_6
+    4300264: Horizontal_5
+    4300266: Horizontal_4
+    4300268: Horizontal_3
+    4300270: Horizontal_2
+    4300272: Horizontal_1
+    4300274: Vertical_4
+    4300276: Vertical_3
+    4300278: Vertical_2
+    4300280: Vertical_1
+    4300282: Horizontal_13
+    4300284: Horizontal_12
+    4300286: Horizontal_11
+    4300288: Horizontal_10
+    4300290: Horizontal_9
+    4300292: Horizontal_8
+    4300294: Horizontal_7
+    4300296: Horizontal_6
+    4300298: Horizontal_5
+    4300300: Horizontal_4
+    4300302: Horizontal_3
+    4300304: Horizontal_2
+    4300306: Horizontal_1
+    4300308: Vertical_4
+    4300310: Vertical_3
+    4300312: Vertical_2
+    4300314: Vertical_1
+    4300316: Horizontal_13
+    4300318: Horizontal_12
+    4300320: Horizontal_11
+    4300322: Horizontal_10
+    4300324: Horizontal_9
+    4300326: Horizontal_8
+    4300328: Horizontal_7
+    4300330: Horizontal_6
+    4300332: Horizontal_5
+    4300334: Horizontal_4
+    4300336: Horizontal_3
+    4300338: Horizontal_2
+    4300340: Horizontal_1
+    4300342: Vertical_4
+    4300344: Vertical_3
+    4300346: Vertical_2
+    4300348: Vertical_1
+    4300350: Horizontal_13
+    4300352: Horizontal_12
+    4300354: Horizontal_11
+    4300356: Horizontal_10
+    4300358: Horizontal_9
+    4300360: Horizontal_8
+    4300362: Horizontal_7
+    4300364: Horizontal_6
+    4300366: Horizontal_5
+    4300368: Horizontal_4
+    4300370: Horizontal_3
+    4300372: Horizontal_2
+    4300374: Horizontal_1
+    4300376: Vertical_4
+    4300378: Vertical_3
+    4300380: Vertical_2
+    4300382: Vertical_1
+    4300384: Cuerda_1
+    4300386: Cuerda_2
+    4300388: Cuerda_3
+    4300390: Cuerda_4
+    4300392: Mastil
+    4300394: Palo_1
+    4300396: Palo_2
+    4300398: Descanso_1
+    4300400: Descanso_2
+    4300402: Horizontal_13
+    4300404: Horizontal_12
+    4300406: Horizontal_11
+    4300408: Horizontal_10
+    4300410: Horizontal_9
+    4300412: Horizontal_8
+    4300414: Horizontal_7
+    4300416: Horizontal_6
+    4300418: Horizontal_5
+    4300420: Horizontal_4
+    4300422: Horizontal_3
+    4300424: Horizontal_2
+    4300426: Horizontal_1
+    4300428: Vertical_4
+    4300430: Vertical_3
+    4300432: Vertical_2
+    4300434: Vertical_1
+    4300436: Horizontal_13
+    4300438: Horizontal_12
+    4300440: Horizontal_11
+    4300442: Horizontal_10
+    4300444: Horizontal_9
+    4300446: Horizontal_8
+    4300448: Horizontal_7
+    4300450: Horizontal_6
+    4300452: Horizontal_5
+    4300454: Horizontal_4
+    4300456: Horizontal_3
+    4300458: Horizontal_2
+    4300460: Horizontal_1
+    4300462: Vertical_4
+    4300464: Vertical_3
+    4300466: Vertical_2
+    4300468: Vertical_1
+    4300470: Cuerda_1
+    4300472: Cuerda_2
+    4300474: Mastil
+    4300476: Palo_2
+    4300478: Descanso_1
+    4300480: Vela_2
+    4300482: Vela_1
+    4300484: Horizontal_13
+    4300486: Horizontal_12
+    4300488: Horizontal_11
+    4300490: Horizontal_10
+    4300492: Horizontal_9
+    4300494: Horizontal_8
+    4300496: Horizontal_7
+    4300498: Horizontal_6
+    4300500: Horizontal_5
+    4300502: Horizontal_4
+    4300504: Horizontal_3
+    4300506: Horizontal_2
+    4300508: Horizontal_1
+    4300510: Vertical_4
+    4300512: Vertical_3
+    4300514: Vertical_2
+    4300516: Vertical_1
+    4300518: Horizontal_13
+    4300520: Horizontal_12
+    4300522: Horizontal_11
+    4300524: Horizontal_10
+    4300526: Horizontal_9
+    4300528: Horizontal_8
+    4300530: Horizontal_7
+    4300532: Horizontal_6
+    4300534: Horizontal_5
+    4300536: Horizontal_4
+    4300538: Horizontal_3
+    4300540: Horizontal_2
+    4300542: Horizontal_1
+    4300544: Vertical_4
+    4300546: Vertical_3
+    4300548: Vertical_2
+    4300550: Vertical_1
+    4300552: Horizontal_13
+    4300554: Horizontal_12
+    4300556: Horizontal_11
+    4300558: Horizontal_10
+    4300560: Horizontal_9
+    4300562: Horizontal_8
+    4300564: Horizontal_7
+    4300566: Horizontal_6
+    4300568: Horizontal_5
+    4300570: Horizontal_4
+    4300572: Horizontal_3
+    4300574: Horizontal_2
+    4300576: Horizontal_1
+    4300578: Vertical_4
+    4300580: Vertical_3
+    4300582: Vertical_2
+    4300584: Vertical_1
+    4300586: Horizontal_13
+    4300588: Horizontal_12
+    4300590: Horizontal_11
+    4300592: Horizontal_10
+    4300594: Horizontal_9
+    4300596: Horizontal_8
+    4300598: Horizontal_7
+    4300600: Horizontal_6
+    4300602: Horizontal_5
+    4300604: Horizontal_4
+    4300606: Horizontal_3
+    4300608: Horizontal_2
+    4300610: Horizontal_1
+    4300612: Vertical_4
+    4300614: Vertical_3
+    4300616: Vertical_2
+    4300618: Vertical_1
+    4300620: Cuerda_1
+    4300622: Cuerda_2
+    4300624: Cuerda_3
+    4300626: Cuerda_4
+    4300628: Mastil
+    4300630: Palo_1
+    4300632: Palo_2
+    4300634: Descanso_1
+    4300636: Descanso_2
+    4300638: Vela_2
+    4300640: Vela_1
+    4300642: Horizontal_13
+    4300644: Horizontal_12
+    4300646: Horizontal_11
+    4300648: Horizontal_10
+    4300650: Horizontal_9
+    4300652: Horizontal_8
+    4300654: Horizontal_7
+    4300656: Horizontal_6
+    4300658: Horizontal_5
+    4300660: Horizontal_4
+    4300662: Horizontal_3
+    4300664: Horizontal_2
+    4300666: Horizontal_1
+    4300668: Vertical_4
+    4300670: Vertical_3
+    4300672: Vertical_2
+    4300674: Vertical_1
+    4300676: Horizontal_13
+    4300678: Horizontal_12
+    4300680: Horizontal_11
+    4300682: Horizontal_10
+    4300684: Horizontal_9
+    4300686: Horizontal_8
+    4300688: Horizontal_7
+    4300690: Horizontal_6
+    4300692: Horizontal_5
+    4300694: Horizontal_4
+    4300696: Horizontal_3
+    4300698: Horizontal_2
+    4300700: Horizontal_1
+    4300702: Vertical_4
+    4300704: Vertical_3
+    4300706: Vertical_2
+    4300708: Vertical_1
+    4300710: Horizontal_13
+    4300712: Horizontal_12
+    4300714: Horizontal_11
+    4300716: Horizontal_10
+    4300718: Horizontal_9
+    4300720: Horizontal_8
+    4300722: Horizontal_7
+    4300724: Horizontal_6
+    4300726: Horizontal_5
+    4300728: Horizontal_4
+    4300730: Horizontal_3
+    4300732: Horizontal_2
+    4300734: Horizontal_1
+    4300736: Vertical_4
+    4300738: Vertical_3
+    4300740: Vertical_2
+    4300742: Vertical_1
+    4300744: Horizontal_13
+    4300746: Horizontal_12
+    4300748: Horizontal_11
+    4300750: Horizontal_10
+    4300752: Horizontal_9
+    4300754: Horizontal_8
+    4300756: Horizontal_7
+    4300758: Horizontal_6
+    4300760: Horizontal_5
+    4300762: Horizontal_4
+    4300764: Horizontal_3
+    4300766: Horizontal_2
+    4300768: Horizontal_1
+    4300770: Vertical_4
+    4300772: Vertical_3
+    4300774: Vertical_2
+    4300776: Vertical_1
+    4300778: Cuerda_1
+    4300780: Cuerda_2
+    4300782: Cuerda_3
+    4300784: Cuerda_4
+    4300786: Mastil
+    4300788: Palo_1
+    4300790: Palo_2
+    4300792: Descanso_1
+    4300794: Descanso_2
+    4300796: Mastil_Delantero
+    4300798: Bodega1
+    4300800: Eje
+    4300802: Radio_1
+    4300804: Aro_1
+    4300806: Aro_2
+    4300808: Radio_2
+    4300810: Radio_3
+    4300812: Radio_4
+    4300814: Vela_Delantera1
+    4300816: Vela_3
+    4300818: Vela_4
+    4300820: Vela_7
+    4300822: Vela_8
+    4300824: Vela_5
+    4300826: Vela_6
+    4300828: Vela_Posterior1
+    4300830: "Ca\xF1on"
+    4300832: "Ca\xF1on"
+    4300834: "Ca\xF1on"
+    4300836: "Ca\xF1on"
+    4300838: "Ca\xF1on"
+    4300840: "Ca\xF1on"
+    4300842: "Ca\xF1on"
+    4300844: "Ca\xF1on"
+    4300846: "Ca\xF1on"
+    4300848: "Ca\xF1on"
+    4300850: "Ca\xF1on"
+    4300852: "Ca\xF1on"
+    4300854: "Ca\xF1on"
+    4300856: "Ca\xF1on"
+    4300858: "Ca\xF1on"
+    4300860: "Ca\xF1on"
+    4300862: "Ca\xF1on"
+    4300864: "Ca\xF1on"
+    4300866: "Ca\xF1on"
+    4300868: "Ca\xF1on"
+    4300870: "Ca\xF1on"
+    4300872: "Ca\xF1on"
+    4300874: "Ca\xF1on"
+    4300876: "Ca\xF1on"
+    4300878: "Ca\xF1on"
+    4300880: "Ca\xF1on"
+    4300882: "Ca\xF1on"
+    4300884: "Ca\xF1on"
+    4300886: "Ca\xF1on_1"
+    4300888: "Ca\xF1on_2"
+    4300890: "Ca\xF1on_3"
+    4300892: "Ca\xF1on_4"
+    4300894: "Ca\xF1on_5"
+    4300896: "Ca\xF1on_6"
+    4300898: "Ca\xF1on_1"
+    4300900: "Ca\xF1on_2"
+    4300902: "Ca\xF1on_3"
+    4300904: "Ca\xF1on_4"
+    4300906: "Ca\xF1on_5"
+    4300908: "Ca\xF1on_6"
+    6400000: Ancla_1
+    6400002: Ancla_2
+    6400004: Aro_1
+    6400006: Aro_2
+    6400008: Balconada
+    6400010: Bodega1
+    6400012: Ca__on
+    6400014: Ca__on 1
+    6400016: Ca__on 10
+    6400018: Ca__on 11
+    6400020: Ca__on 12
+    6400022: Ca__on 13
+    6400024: Ca__on 14
+    6400026: Ca__on 15
+    6400028: Ca__on 16
+    6400030: Ca__on 17
+    6400032: Ca__on 18
+    6400034: Ca__on 19
+    6400036: Ca__on 2
+    6400038: Ca__on 20
+    6400040: Ca__on 21
+    6400042: Ca__on 22
+    6400044: Ca__on 23
+    6400046: Ca__on 24
+    6400048: Ca__on 25
+    6400050: Ca__on 26
+    6400052: Ca__on 27
+    6400054: Ca__on 3
+    6400056: Ca__on 4
+    6400058: Ca__on 5
+    6400060: Ca__on 6
+    6400062: Ca__on 7
+    6400064: Ca__on 8
+    6400066: Ca__on 9
+    6400068: Ca__on_1 2
+    6400070: Ca__on_1 3
+    6400072: Ca__on_2 2
+    6400074: Ca__on_2 3
+    6400076: Ca__on_3 2
+    6400078: Ca__on_3 3
+    6400080: Ca__on_4 2
+    6400082: Ca__on_4 3
+    6400084: Ca__on_5 1
+    6400086: Ca__on_5 2
+    6400088: Ca__on_6 1
+    6400090: Ca__on_6 2
+    6400092: Cable_1
+    6400094: Cable_10
+    6400096: Cable_11
+    6400098: Cable_2
+    6400100: Cable_3
+    6400102: Cable_4
+    6400104: Cable_5
+    6400106: Cable_6
+    6400108: Cable_7
+    6400110: Cable_8
+    6400112: Cable_9
+    6400114: Casco
+    6400116: Cuerda_1
+    6400118: Cuerda_1 1
+    6400120: Cuerda_1 2
+    6400122: Cuerda_1 3
+    6400124: Cuerda_2
+    6400126: Cuerda_2 1
+    6400128: Cuerda_2 2
+    6400130: Cuerda_2 3
+    6400132: Cuerda_3
+    6400134: Cuerda_3 1
+    6400136: Cuerda_3 2
+    6400138: Cuerda_4
+    6400140: Cuerda_4 1
+    6400142: Cuerda_4 2
+    6400144: Descanso_1
+    6400146: Descanso_1 1
+    6400148: Descanso_1 2
+    6400150: Descanso_1 3
+    6400152: Descanso_2
+    6400154: Descanso_2 1
+    6400156: Descanso_2 2
+    6400158: Eje
+    6400160: Horizontal_1
+    6400162: Horizontal_1 1
+    6400164: Horizontal_1 10
+    6400166: Horizontal_1 11
+    6400168: Horizontal_1 12
+    6400170: Horizontal_1 13
+    6400172: Horizontal_1 2
+    6400174: Horizontal_1 3
+    6400176: Horizontal_1 4
+    6400178: Horizontal_1 5
+    6400180: Horizontal_1 6
+    6400182: Horizontal_1 7
+    6400184: Horizontal_1 8
+    6400186: Horizontal_1 9
+    6400188: Horizontal_10
+    6400190: Horizontal_10 1
+    6400192: Horizontal_10 10
+    6400194: Horizontal_10 11
+    6400196: Horizontal_10 12
+    6400198: Horizontal_10 13
+    6400200: Horizontal_10 2
+    6400202: Horizontal_10 3
+    6400204: Horizontal_10 4
+    6400206: Horizontal_10 5
+    6400208: Horizontal_10 6
+    6400210: Horizontal_10 7
+    6400212: Horizontal_10 8
+    6400214: Horizontal_10 9
+    6400216: Horizontal_11
+    6400218: Horizontal_11 1
+    6400220: Horizontal_11 10
+    6400222: Horizontal_11 11
+    6400224: Horizontal_11 12
+    6400226: Horizontal_11 13
+    6400228: Horizontal_11 2
+    6400230: Horizontal_11 3
+    6400232: Horizontal_11 4
+    6400234: Horizontal_11 5
+    6400236: Horizontal_11 6
+    6400238: Horizontal_11 7
+    6400240: Horizontal_11 8
+    6400242: Horizontal_11 9
+    6400244: Horizontal_12
+    6400246: Horizontal_12 1
+    6400248: Horizontal_12 10
+    6400250: Horizontal_12 11
+    6400252: Horizontal_12 12
+    6400254: Horizontal_12 13
+    6400256: Horizontal_12 2
+    6400258: Horizontal_12 3
+    6400260: Horizontal_12 4
+    6400262: Horizontal_12 5
+    6400264: Horizontal_12 6
+    6400266: Horizontal_12 7
+    6400268: Horizontal_12 8
+    6400270: Horizontal_12 9
+    6400272: Horizontal_13
+    6400274: Horizontal_13 1
+    6400276: Horizontal_13 10
+    6400278: Horizontal_13 11
+    6400280: Horizontal_13 12
+    6400282: Horizontal_13 13
+    6400284: Horizontal_13 2
+    6400286: Horizontal_13 3
+    6400288: Horizontal_13 4
+    6400290: Horizontal_13 5
+    6400292: Horizontal_13 6
+    6400294: Horizontal_13 7
+    6400296: Horizontal_13 8
+    6400298: Horizontal_13 9
+    6400300: Horizontal_2
+    6400302: Horizontal_2 1
+    6400304: Horizontal_2 10
+    6400306: Horizontal_2 11
+    6400308: Horizontal_2 12
+    6400310: Horizontal_2 13
+    6400312: Horizontal_2 2
+    6400314: Horizontal_2 3
+    6400316: Horizontal_2 4
+    6400318: Horizontal_2 5
+    6400320: Horizontal_2 6
+    6400322: Horizontal_2 7
+    6400324: Horizontal_2 8
+    6400326: Horizontal_2 9
+    6400328: Horizontal_3
+    6400330: Horizontal_3 1
+    6400332: Horizontal_3 10
+    6400334: Horizontal_3 11
+    6400336: Horizontal_3 12
+    6400338: Horizontal_3 13
+    6400340: Horizontal_3 2
+    6400342: Horizontal_3 3
+    6400344: Horizontal_3 4
+    6400346: Horizontal_3 5
+    6400348: Horizontal_3 6
+    6400350: Horizontal_3 7
+    6400352: Horizontal_3 8
+    6400354: Horizontal_3 9
+    6400356: Horizontal_4
+    6400358: Horizontal_4 1
+    6400360: Horizontal_4 10
+    6400362: Horizontal_4 11
+    6400364: Horizontal_4 12
+    6400366: Horizontal_4 13
+    6400368: Horizontal_4 2
+    6400370: Horizontal_4 3
+    6400372: Horizontal_4 4
+    6400374: Horizontal_4 5
+    6400376: Horizontal_4 6
+    6400378: Horizontal_4 7
+    6400380: Horizontal_4 8
+    6400382: Horizontal_4 9
+    6400384: Horizontal_5
+    6400386: Horizontal_5 1
+    6400388: Horizontal_5 10
+    6400390: Horizontal_5 11
+    6400392: Horizontal_5 12
+    6400394: Horizontal_5 13
+    6400396: Horizontal_5 2
+    6400398: Horizontal_5 3
+    6400400: Horizontal_5 4
+    6400402: Horizontal_5 5
+    6400404: Horizontal_5 6
+    6400406: Horizontal_5 7
+    6400408: Horizontal_5 8
+    6400410: Horizontal_5 9
+    6400412: Horizontal_6
+    6400414: Horizontal_6 1
+    6400416: Horizontal_6 10
+    6400418: Horizontal_6 11
+    6400420: Horizontal_6 12
+    6400422: Horizontal_6 13
+    6400424: Horizontal_6 2
+    6400426: Horizontal_6 3
+    6400428: Horizontal_6 4
+    6400430: Horizontal_6 5
+    6400432: Horizontal_6 6
+    6400434: Horizontal_6 7
+    6400436: Horizontal_6 8
+    6400438: Horizontal_6 9
+    6400440: Horizontal_7
+    6400442: Horizontal_7 1
+    6400444: Horizontal_7 10
+    6400446: Horizontal_7 11
+    6400448: Horizontal_7 12
+    6400450: Horizontal_7 13
+    6400452: Horizontal_7 2
+    6400454: Horizontal_7 3
+    6400456: Horizontal_7 4
+    6400458: Horizontal_7 5
+    6400460: Horizontal_7 6
+    6400462: Horizontal_7 7
+    6400464: Horizontal_7 8
+    6400466: Horizontal_7 9
+    6400468: Horizontal_8
+    6400470: Horizontal_8 1
+    6400472: Horizontal_8 10
+    6400474: Horizontal_8 11
+    6400476: Horizontal_8 12
+    6400478: Horizontal_8 13
+    6400480: Horizontal_8 2
+    6400482: Horizontal_8 3
+    6400484: Horizontal_8 4
+    6400486: Horizontal_8 5
+    6400488: Horizontal_8 6
+    6400490: Horizontal_8 7
+    6400492: Horizontal_8 8
+    6400494: Horizontal_8 9
+    6400496: Horizontal_9
+    6400498: Horizontal_9 1
+    6400500: Horizontal_9 10
+    6400502: Horizontal_9 11
+    6400504: Horizontal_9 12
+    6400506: Horizontal_9 13
+    6400508: Horizontal_9 2
+    6400510: Horizontal_9 3
+    6400512: Horizontal_9 4
+    6400514: Horizontal_9 5
+    6400516: Horizontal_9 6
+    6400518: Horizontal_9 7
+    6400520: Horizontal_9 8
+    6400522: Horizontal_9 9
+    6400524: Hueco
+    6400526: Hueco 1
+    6400528: Hueco 10
+    6400530: Hueco 11
+    6400532: Hueco 12
+    6400534: Hueco 13
+    6400536: Hueco 14
+    6400538: Hueco 15
+    6400540: Hueco 16
+    6400542: Hueco 17
+    6400544: Hueco 18
+    6400546: Hueco 19
+    6400548: Hueco 2
+    6400550: Hueco 20
+    6400552: Hueco 21
+    6400554: Hueco 22
+    6400556: Hueco 23
+    6400558: Hueco 24
+    6400560: Hueco 25
+    6400562: Hueco 26
+    6400564: Hueco 27
+    6400566: Hueco 3
+    6400568: Hueco 4
+    6400570: Hueco 5
+    6400572: Hueco 6
+    6400574: Hueco 7
+    6400576: Hueco 8
+    6400578: Hueco 9
+    6400580: Mastil
+    6400582: Mastil 1
+    6400584: Mastil 2
+    6400586: Mastil 3
+    6400588: Mastil_Delantero
+    6400590: Palo_1
+    6400592: Palo_1 1
+    6400594: Palo_1 2
+    6400596: Palo_2
+    6400598: Palo_2 1
+    6400600: Palo_2 2
+    6400602: Palo_2 3
+    6400604: Radio_1
+    6400606: Radio_2
+    6400608: Radio_3
+    6400610: Radio_4
+    6400612: Tapa
+    6400614: Tapa 1
+    6400616: Tapa 10
+    6400618: Tapa 11
+    6400620: Tapa 12
+    6400622: Tapa 13
+    6400624: Tapa 14
+    6400626: Tapa 15
+    6400628: Tapa 16
+    6400630: Tapa 17
+    6400632: Tapa 18
+    6400634: Tapa 19
+    6400636: Tapa 2
+    6400638: Tapa 20
+    6400640: Tapa 21
+    6400642: Tapa 22
+    6400644: Tapa 23
+    6400646: Tapa 24
+    6400648: Tapa 25
+    6400650: Tapa 26
+    6400652: Tapa 27
+    6400654: Tapa 3
+    6400656: Tapa 4
+    6400658: Tapa 5
+    6400660: Tapa 6
+    6400662: Tapa 7
+    6400664: Tapa 8
+    6400666: Tapa 9
+    6400668: Timon_Casco
+    6400670: Vela_1
+    6400672: Vela_1 1
+    6400674: Vela_1 2
+    6400676: Vela_2
+    6400678: Vela_2 1
+    6400680: Vela_2 2
+    6400682: Vela_Delantera
+    6400684: Vela_Posterior
+    6400686: Ventana_Izquierda_1
+    6400688: Ventana_Izquierda_1 1
+    6400690: Ventana_Izquierda_2
+    6400692: Ventana_Izquierda_2 1
+    6400694: Ventana_Izquierda_3
+    6400696: Ventana_Izquierda_3 1
+    6400698: Ventana_Izquierda_4
+    6400700: Ventana_Izquierda_4 1
+    6400702: Vertical_1
+    6400704: Vertical_1 1
+    6400706: Vertical_1 10
+    6400708: Vertical_1 11
+    6400710: Vertical_1 12
+    6400712: Vertical_1 13
+    6400714: Vertical_1 2
+    6400716: Vertical_1 3
+    6400718: Vertical_1 4
+    6400720: Vertical_1 5
+    6400722: Vertical_1 6
+    6400724: Vertical_1 7
+    6400726: Vertical_1 8
+    6400728: Vertical_1 9
+    6400730: Vertical_2
+    6400732: Vertical_2 1
+    6400734: Vertical_2 10
+    6400736: Vertical_2 11
+    6400738: Vertical_2 12
+    6400740: Vertical_2 13
+    6400742: Vertical_2 2
+    6400744: Vertical_2 3
+    6400746: Vertical_2 4
+    6400748: Vertical_2 5
+    6400750: Vertical_2 6
+    6400752: Vertical_2 7
+    6400754: Vertical_2 8
+    6400756: Vertical_2 9
+    6400758: Vertical_3
+    6400760: Vertical_3 1
+    6400762: Vertical_3 10
+    6400764: Vertical_3 11
+    6400766: Vertical_3 12
+    6400768: Vertical_3 13
+    6400770: Vertical_3 2
+    6400772: Vertical_3 3
+    6400774: Vertical_3 4
+    6400776: Vertical_3 5
+    6400778: Vertical_3 6
+    6400780: Vertical_3 7
+    6400782: Vertical_3 8
+    6400784: Vertical_3 9
+    6400786: Vertical_4
+    6400788: Vertical_4 1
+    6400790: Vertical_4 10
+    6400792: Vertical_4 11
+    6400794: Vertical_4 12
+    6400796: Vertical_4 13
+    6400798: Vertical_4 2
+    6400800: Vertical_4 3
+    6400802: Vertical_4 4
+    6400804: Vertical_4 5
+    6400806: Vertical_4 6
+    6400808: Vertical_4 7
+    6400810: Vertical_4 8
+    6400812: Vertical_4 9
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
